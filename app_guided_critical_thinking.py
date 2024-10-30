@@ -11,7 +11,7 @@ APP_INTRO = """Animals that live in different climates often have varying amount
  #The AI may also score a student based on rubrics created by the instructor. AI generally performs better when grading discrete, tangible items (i.e. The student included a personal experience) whereas it is less consistent with judgement calls (e.g. The student's response is high quality). 
 
 
- """
+ #"""
 
 SHARED_ASSET = {
 }
