@@ -33,7 +33,7 @@ PHASES = {
         "fields": {
             "name": {
                 "type": "image",
-                "image": "https://appsforeducation.s3.amazonaws.com/cholesterol.jpg",
+                "image": "https://courses.mitxonline.mit.edu/asset-v1:MITxT+3.034.3x+2T2023+type@asset+block@Polar_bear.jpg",
                 "caption": "A series of artery cutaways showing a progression of some kind of blockage.",
             },
             "identify": {
