@@ -3,7 +3,7 @@ APP_URL = "https://guided-critical-thinking.streamlit.app"
 
 APP_TITLE = "Biomaterials Problem 1"
 APP_INTRO = """Animals that live in different climates often have varying amounts of polyunsaturated fatty acid residues in their fats. Which would you predict would have more polyunsaturated fats – an animal that lives in a cold climate or a warm one? 
-APP_IMAGE = "jgsandla/AI-MicroApps/app_images/Polar_bear.jpg"
+
 """
 
 #APP_HOW_IT_WORKS = """
@@ -17,12 +17,7 @@ SHARED_ASSET = {
    
 }
 
-HTML_IMAGE = {
-    "src": "Polar_bear",
-    "alt_text": "Ilustration of polar bear",
-    "width": "200"
-   
-}
+
 
 SYSTEM_PROMPT = """You provide feedback, based on instructions that are provided, on a critical thinking response from a student. You are overall encouraging, and try to be specific about areas improvement and try to avoid vague statements like 'add more detail'. When asked to score, your scoring is based on the facts at hand, and have nothing to do with the tone of the conversation. """
 
