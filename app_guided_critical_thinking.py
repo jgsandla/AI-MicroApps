@@ -16,9 +16,11 @@ APP_INTRO = """Animals that live in different climates often have varying amount
 SHARED_ASSET = {
 }
 
-HTML_BUTTON = {
-    "url":"https://curricume-edx-docs.onrender.com/docs/next/elearning_science_instruction/multimedia_principle",
-    "button_text":"Read the Lesson"
+HTML_IMAGE = {
+    "url": "https://courses.mitxonline.mit.edu/asset-v1:MITxT+3.034.3x+2T2023+type@asset+block@DALL_E_2024-10-30_15.41.00_-_A_realistic_illustration_of_a_polar_bear_standing_on_an_icy_landscape__looking_calm_and_majestic._The_background_shows_snow-covered_terrain_with_a_hin.webp",
+    "alt_text": "Ilustration of polar bear",
+    "width": "200",
+   
 }
 
 SYSTEM_PROMPT = """You provide feedback, based on instructions that are provided, on a critical thinking response from a student. You are overall encouraging, and try to be specific about areas improvement and try to avoid vague statements like 'add more detail'. When asked to score, your scoring is based on the facts at hand, and have nothing to do with the tone of the conversation. """
