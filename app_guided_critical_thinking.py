@@ -31,6 +31,7 @@ PHASES = {
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polar_bear_with_cub.jpg/1600px-Polar_bear_with_cub.jpg",
                 "alt": "A polar bear with its cub",
             }
+        }
     },
 
 
