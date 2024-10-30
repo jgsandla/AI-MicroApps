@@ -66,7 +66,7 @@ PHASES = {
                 1 points - The user has talked about when the multimedia principle advises when to use animation (primarily to illustrate hands-on procedures or to serve an interpretive function) vs static app_images (most other educational visualizations)
                 0 points - The user has not spoken to when multimedia principle advises to use animation vs static app_images. 
         """,
-        #"allow_revisions": True,
+        "allow_revisions": True,
         "allow_skip": False,
         #"show_prompt": True,
         #"read_only_prompt": False
