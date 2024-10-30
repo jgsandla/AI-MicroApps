@@ -72,6 +72,54 @@ PHASES = {
         #"read_only_prompt": False
     },
 
+  "summarize": {
+        "name": "Summarize the Lesson",
+        "fields": {
+            "multimedia_principle_text": {
+                "type": "markdown",
+                "body": """**Explain in your own words the Multimedia Principle on course development. Describe an example of how you might use the multimedia principle in practice.**
+                <p style="font-size: .9em; color: #3c3c3c;">Make sure to include a definition of the Multimedia Principle, and describe when to use animations vs static illustrations. Also, do remember to include an example of how you might use the multimedia principle in practice.</p>""",
+                "unsafe_allow_html": True,
+            },
+            "multimedia_principle": {
+                "type": "text_area",
+                "height": 200,
+                "label": """Explain in your own words the Multimedia Principle on course development. Describe an example of how you might use the multimedia principle in practice.""",
+                "label_visibility": "hidden",
+                "value": "The multimedia principle is the idea that learner's retain information better when viewing app_images that match the audio, rather than audio alone. In my own work, I expect that I might try to use app_images that support the audio instead of purely decorative app_images or \"talking head\" format. ",
+            },
+
+
+        },
+        "phase_instructions": """
+        The user will define the multimedia principle as it pertains to online education. Provide feedback for the user using the following guide:
+        - Make sure the user includes a definition of the multimedia principle
+        - Make sure the user describes when to use animation vs static illustration. 
+        - Make sure the user includes their own example of how they might use the multimedia principle in practice. 
+        Start with encouragement about what the user did well. Then, outline any areas for improvement. If the user met all the guidelines, then offer your own suggestion on how they could improve their response. 
+        Do not end your statement with a question. 
+        """,
+        "user_prompt": "{multimedia_principle}",
+        "ai_response": True,
+        "scored_phase": True,
+        "minimum_score": 0,
+        "rubric": """
+            1. Definition
+                1 points - The user has provided an accurate definition of the multimedia principle in the context of online education. 
+                0 points - The user has not provided an accurate definition of the multimedia principle in the context of online education. 
+            2. Personal Example
+                1 points - The user has provided their own example of how they might use the multimedia principle in practice. 
+                0 points - The user has not provided their own example of how they might use the multimedia principle in practice. 
+            3. Animation vs Static
+                1 points - The user has talked about when the multimedia principle advises when to use animation (primarily to illustrate hands-on procedures or to serve an interpretive function) vs static app_images (most other educational visualizations)
+                0 points - The user has not spoken to when multimedia principle advises to use animation vs static app_images. 
+        """,
+        "allow_revisions": True,
+        "allow_skip": False,
+        #"show_prompt": True,
+        #"read_only_prompt": False
+    },
+
 
  
 }
