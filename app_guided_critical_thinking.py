@@ -14,13 +14,11 @@ APP_INTRO = """Animals that live in different climates often have varying amount
  #"""
 
 SHARED_ASSET = {
- <img src="Polar_bear">
-
    
 }
 
 HTML_IMAGE = {
-    "url": "https://courses.mitxonline.mit.edu/asset-v1:MITxT+3.034.3x+2T2023+type@asset+block@Polar_bear.jpg",
+    "src": "Polar_bear",
     "alt_text": "Ilustration of polar bear",
     "width": "200"
    
