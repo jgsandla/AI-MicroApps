@@ -28,7 +28,7 @@ PHASES = {
         "fields": {
             "name": {
                 "type": "image",
-                "image": "https://courses.mitxonline.mit.edu/asset-v1:MITxT+3.034.3x+2T2023+type@asset+block@Polar_bear.jpg",
+                "image": "https://en.wikipedia.org/wiki/Polar_bear#/media/File:Polar_Bear_-_Alaska_(cropped).jpg",
                 "caption": "A series of artery cutaways showing a progression of some kind of blockage.",
             },
             "identify": {
