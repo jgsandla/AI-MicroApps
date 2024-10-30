@@ -32,12 +32,9 @@ PHASES = {
                 "alt": "A polar bear with its cub",
             }
         }
-    },
 
 
-
- 
-   "summarize": {
+  "summarize": {
        "name": "Summarize the Lesson",
        "fields": {
            "multimedia_principle_text": {
@@ -84,6 +81,15 @@ PHASES = {
        #"show_prompt": True,
        #"read_only_prompt": False
    },
+
+
+  
+    },
+
+
+
+ 
+ 
 
   "improve": {
         "name": "Improve your Response",
