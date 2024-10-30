@@ -19,7 +19,7 @@ SHARED_ASSET = {
 HTML_IMAGE = {
     "url": "https://courses.mitxonline.mit.edu/asset-v1:MITxT+3.034.3x+2T2023+type@asset+block@Polar_bear.jpg",
     "alt_text": "Ilustration of polar bear",
-    "width": "200",
+    "width": "200"
    
 }
 
