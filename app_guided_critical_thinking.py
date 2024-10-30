@@ -72,7 +72,7 @@ PHASES = {
         #"read_only_prompt": False
     },
 
-  "summarize": {
+  "revise": {
         "name": "Summarize the Lesson",
         "fields": {
             "multimedia_principle_text": {
