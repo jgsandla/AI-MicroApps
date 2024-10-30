@@ -28,7 +28,7 @@ PHASES = {
         "fields": {
             "name": {
                 "type": "image",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Polar_Bear_imported_from_iNaturalist_photo_35085101_on_1_January_2024.jpg",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polar_bear_with_cub.jpg/1600px-Polar_bear_with_cub.jpg",
                 "caption": "A series of artery cutaways showing a progression of some kind of blockage.",
             },
             "identify": {
