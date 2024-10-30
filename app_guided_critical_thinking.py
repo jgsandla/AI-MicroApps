@@ -3,7 +3,7 @@ APP_URL = "https://guided-critical-thinking.streamlit.app"
 
 APP_TITLE = "Biomaterials Problem 1"
 APP_INTRO = """Animals that live in different climates often have varying amounts of polyunsaturated fatty acid residues in their fats. Which would you predict would have more polyunsaturated fats – an animal that lives in a cold climate or a warm one? 
-APP_IMAGE = "Polar_bear"
+APP_IMAGE = "Polar_bear.jpg"
 """
 
 #APP_HOW_IT_WORKS = """
