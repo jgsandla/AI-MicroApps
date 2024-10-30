@@ -29,7 +29,7 @@ PHASES = {
             "name": {
                 "type": "image",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polar_bear_with_cub.jpg/1600px-Polar_bear_with_cub.jpg",
-                "caption": "A series of artery cutaways showing a progression of some kind of blockage.",
+                "alt": "A polar bear with its cub",
             },
             "identify": {
                 "type": "text_area",
