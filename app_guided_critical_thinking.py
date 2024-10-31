@@ -108,7 +108,7 @@ PHASES = {
                 "height": 200,
                 "label": """Based on the feedback you received, please improve your response.""",
                 "label_visibility": "hidden",
-                "showIf": {"revision": {"$eq": "Yes"}}
+                "showIf": {"revision": {"$eq": "No"}}
                 ##"value": polyunsaturated_temp,
             },
 
