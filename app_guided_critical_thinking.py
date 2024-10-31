@@ -63,7 +63,7 @@ PHASES = {
 
       
        
-        If the user identifies any of the points described above, start with encouragement about what the user did well.  If the user's answer is completely incorrect, start with a neutral statement.  Then, summarize what the user has gotten correct. If the user has missed an important point, ask them leading questions relating to that point or encourage them to consider addressing these points in their answer.  Encourage the user to revise their response below, unless their answer met all of the guidelines. If the user met all the guidelines, let them know and tell them that they can skip the next question. 
+        If the user identifies any of the points described above, start with encouragement about what the user did well.  If the user's answer is completely incorrect, start with a neutral statement.  Then, summarize what the user has gotten correct. If the user has missed an important point, ask them leading questions relating to that point or encourage them to consider addressing these points in their answer, but if the user's answer is generally complete, don't make these suggestions or ask these questions.  Encourage the user to revise their response below, unless their answer met all of the guidelines. If the user met all the guidelines, let them know and tell them that they can skip the next question. 
         Do not end your statement with a question. 
         """,
         "user_prompt": "{polyunsaturated_temp}",
