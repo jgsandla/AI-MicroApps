@@ -94,7 +94,7 @@ PHASES = {
                 "height": 200,
                 "label": """Based on the feedback you received, please improve your response.""",
                 "label_visibility": "hidden",
-                "value": """The multimedia principle is the idea that learner's retain information better when viewing app_images that match the audio, rather than audio alone. This is because making a connection between a pictorial and a verbal representation of an item is proven to be an helpful way to store something in long term memory. You might expect that animated app_images are better than static app_images, but the research does not conclusively indicate that. Animated app_images could be more distracting and therefore less effective than static app_images. The exception is when demonstrating complex manual processes, where animations have shown to be effective. In my own work, I expect that I might try to use app_images that support the audio instead of purely decorative app_images or 'talking head' format. I'm thinking particularly of a lesson about building AI apps, where it would be helpful to show screenshots of important steps instead of just talking or writing about them. """,
+                "value": polyunsaturated_temp,
             },
 
 
