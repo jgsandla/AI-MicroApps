@@ -133,7 +133,7 @@ PHASES = {
                 0 points - The user has not spoken to when multimedia principle advises to use animation vs static app_images. 
         """,
         #"allow_revisions": True,
-        "allow_skip": False,
+        "allow_skip": True,
         #"show_prompt": True,
         #"read_only_prompt": False
     },
