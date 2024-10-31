@@ -31,17 +31,16 @@ PHASES = {
                 "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Polar_Bear_imported_from_iNaturalist_photo_35085101_on_1_January_2024.jpg",
                 "alt": "An image of a polar bear",
                 "width": "200px",
-                "caption": "A series of artery cutaways showing a progression of some kind of blockage."
+                "caption": "An image of a polar bear."
             },
              
 
 
 
          
-            "multimedia_principle_text": {
+            "polyunsaturated_temp_text": {
                 "type": "markdown",
-                "body": """**Explain in your own words the Multimedia Principle on course development. Describe an example of how you might use the multimedia principle in practice.**
-                <p style="font-size: .9em; color: #3c3c3c;">Make sure to include a definition of the Multimedia Principle, and describe when to use animations vs static illustrations. Also, do remember to include an example of how you might use the multimedia principle in practice.</p>""",
+                "body": """Animals that live in different climates often have varying amounts of polyunsaturated fatty acid residues in their fats. **Which would you predict would have more polyunsaturated fats – an animal that lives in a cold climate or a warm one? Explain.** """,
                 "unsafe_allow_html": True,
             },
             "multimedia_principle": {
