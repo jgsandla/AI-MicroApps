@@ -87,29 +87,33 @@ PHASES = {
         #"read_only_prompt": False
     },
     "improve": {
-        "name": "Improve your Response",
+        "name": "Revise your Response",
         "fields": {
             "multimedia_principle_revised": {
                 "type": "text_area",
                 "height": 200,
                 "label": """Based on the feedback you received, please improve your response.""",
                 "label_visibility": "hidden",
-                "value": polyunsaturated_temp
+                "value": polyunsaturated_temp,
             },
 
 
         },
         "phase_instructions": """
-        The user will define the multimedia principle as it pertains to online education. Provide feedback for the user using the following guide:
-        - Make sure the user includes a definition of the multimedia principle
-        - Make sure the user describes when to use animation vs static illustration. 
-        - Make sure the user includes their own example of how they might use the multimedia principle in practice. 
-        If the user has improved their earlier response, then applaud them for doing so. If the user did not change their response, then express some disappointment.
+        The user will answer the following question: Animals that live in different climates often have varying amounts of polyunsaturated fatty acid residues in their fats. Which would you predict would have more polyunsaturated fats – an animal that lives in a cold climate or a warm one? Explain. Provide feedback for the user using the following guide:
+
+        - Cold weather animals have more polyunsaturated fats 
+        - Polyunsaturated fats have double bonds, which makes compact packing of the hydrocarbon chains more difficult (compared to the unsaturated case)
+        - This means that the intermolecular forces (IMFs) between the chains are weaker (compared to the unsaturated case)
+        - This creates a more fluid cell membrane (compared to the unsaturated case)
+        - Higher temperatures can also weaken intermolecular forces (IMFs), leading to an increase in the fluidity of the cell membrane. Therefore, animals living in warmer climates don't require as much polyunsaturated fats to keep their cell mebranes fluid
+             
+        If the user has improved their response,  start with encouragement about what the user did well. If the user did not edit their answer, express some disappointment.  Then, summarize the update that the user has made to their answer. If the user has missed an important point, tell them what it is.  
         Do not end your statement with a question. 
         """,
         "user_prompt": "{multimedia_principle_revised}",
         "ai_response": True,
-        "scored_phase": True,
+        "scored_phase": False,
         "minimum_score": 2,
         "rubric": """
             1. Definition
