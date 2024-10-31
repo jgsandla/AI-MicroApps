@@ -99,7 +99,7 @@ PHASES = {
             "revision": {
                 "type": "radio",
                 "label": "Would you like to revise your response?",
-                "options": ["Yes", "No"]
+                "options": ["No", "Yes"]
             },
 
          
