@@ -17,20 +17,7 @@ SYSTEM_PROMPT = """You provide feedback, based on instructions that are provided
 
 PHASES = {
 
- "phase0": {
-        "name": "Image",
-        "fields": {
-            "name": {
-                "type": "image",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Polar_Bear_imported_from_iNaturalist_photo_35085101_on_1_January_2024.jpg",
-                "alt": "An image of a polar bear",
-                "caption": "A series of artery cutaways showing a progression of some kind of blockage.",
-            }
 
-
-
-        }
- },
 
 
 
