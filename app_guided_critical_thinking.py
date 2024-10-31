@@ -32,11 +32,7 @@ PHASES = {
                # "alt": "An image of a polar bear",
                 #"width": "200px",
                 #"caption": "An image of a polar bear."
-            #},
-             
-
-
-
+            #},            
          
             "polyunsaturated_temp_text": {
                 "type": "markdown",
