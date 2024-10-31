@@ -61,7 +61,7 @@ PHASES = {
         Start with encouragement about what the user did well. Then, outline any areas for improvement. If the user met all the guidelines, then offer your own suggestion on how they could improve their response. 
         Do not end your statement with a question. 
         """,
-        "user_prompt": "{multimedia_principle}",
+        "user_prompt": "{polyunsaturated_temp}",
         "ai_response": True,
         "scored_phase": True,
         "minimum_score": 0,
