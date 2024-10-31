@@ -50,10 +50,12 @@ PHASES = {
 
         },
         "phase_instructions": """
-        The user will define the multimedia principle as it pertains to online education. Provide feedback for the user using the following guide:
-        - Make sure the user includes a definition of the multimedia principle
-        - Make sure the user describes when to use animation vs static illustration. 
-        - Make sure the user includes their own example of how they might use the multimedia principle in practice. 
+        The user will answer the following question: Animals that live in different climates often have varying amounts of polyunsaturated fatty acid residues in their fats. Which would you predict would have more polyunsaturated fats – an animal that lives in a cold climate or a warm one? Explain. Provide feedback for the user using the following guide:
+        - Make sure the user identifies that polyunsaturated fats have double bonds, which makes compact packing of the chains more difficult  
+        - Make sure the user identifies that the intermolecular forces (IMFs) between the chains are weaker because the packing is less compact 
+        - Make sure the user identifies that this leads to a more fluid cell membrane
+        - Make sure that heat can also weaken intermolecular forces (IMFs), leading to an increase in the fluidity of the cell membrane
+        - Conclude that a hot-weather animal wouldn't need/want a lot of polyunsaturated fat in their cell membrane because their cell membrane would already be more mobile
         Start with encouragement about what the user did well. Then, outline any areas for improvement. If the user met all the guidelines, then offer your own suggestion on how they could improve their response. 
         Do not end your statement with a question. 
         """,
