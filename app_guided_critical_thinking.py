@@ -24,7 +24,7 @@ PHASES = {
 
  
     "summarize": {
-        "name": "Summarize the Lesson",
+        "name": "Answer the Question",
         "fields": {
             "polar_bear_image":{
                 "type": "image",
