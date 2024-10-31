@@ -39,6 +39,17 @@ PHASES = {
     "summarize": {
         "name": "Summarize the Lesson",
         "fields": {
+            "polar_bear_image":{
+                "type": "image",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Polar_Bear_imported_from_iNaturalist_photo_35085101_on_1_January_2024.jpg",
+                "alt": "An image of a polar bear",
+                "caption": "A series of artery cutaways showing a progression of some kind of blockage."
+            },
+             
+
+
+
+         
             "multimedia_principle_text": {
                 "type": "markdown",
                 "body": """**Explain in your own words the Multimedia Principle on course development. Describe an example of how you might use the multimedia principle in practice.**
