@@ -108,7 +108,7 @@ PHASES = {
         - This creates a more fluid cell membrane (compared to the unsaturated case)
         - Higher temperatures can also weaken intermolecular forces (IMFs), leading to an increase in the fluidity of the cell membrane. Therefore, animals living in warmer climates don't require as much polyunsaturated fats to keep their cell mebranes fluid
              
-        If the user has improved their response,  start with encouragement about what the user did well. If the user did not edit their answer, express some disappointment.  Then, summarize the update that the user has made to their answer. If the user has missed an important point, tell them what it is.  
+        If the user has improved their response,  start with encouragement about what the user did well. If the user did not edit their answer, express some disappointment.  Then, summarize the update that the user has made to their answer. If the user has missed an important point, tell them what it is, but don't make suggestions if the users answer is generally correct. 
         Do not end your statement with a question. 
         """,
         "user_prompt": "{multimedia_principle_revised}",
