@@ -56,7 +56,7 @@ PHASES = {
         - Make sure the user identifies that this leads to a more fluid cell membrane
         - Make sure that heat can also weaken intermolecular forces (IMFs), leading to an increase in the fluidity of the cell membrane
         - Conclude that a hot-weather animal wouldn't need/want a lot of polyunsaturated fat in their cell membrane because their cell membrane would already be more mobile
-        If the user identifies any of the points described above, start with encouragement about what the user did well.  If the user's answer is completely incorrect, start with a neutral statement.  Then, summarize what the user has gotten correct. If the user met all the guidelines, let them know and tell them that they can skip the next question. 
+        If the user identifies any of the points described above, start with encouragement about what the user did well.  If the user's answer is completely incorrect, start with a neutral statement.  Then, summarize what the user has gotten correct. If the user has missed an important point, let them know, either by asking leading questions or by telling them that they should consider addressing these points in their answer, but don't give the actual answer away.  Encourage the user to revise their response below, unless their answer met all of the guidelines. If the user met all the guidelines, let them know and tell them that they can skip the next question. 
         Do not end your statement with a question. 
         """,
         "user_prompt": "{polyunsaturated_temp}",
