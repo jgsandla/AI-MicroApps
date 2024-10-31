@@ -56,6 +56,10 @@ PHASES = {
         - Make sure the user identifies that this makes the intermolecular forces (IMFs) between the chains are weaker (compared to the unsaturated case)
         - Make sure the user identifies that this leads to a more fluid cell membrane (compared to the unsaturated case)
         - Make sure that the user identifies that higher temperatures can also weaken intermolecular forces (IMFs), leading to an increase in the fluidity of the cell membrane
+
+        Here is an example answer that should be considered completely correct:  Polyunsaturated fats have double bonds that make packing more difficult.  This leads to a decrease in IMFs between the chains, leading to a more flexible cell membrane.  Heat also decreases IMFs, increasing the flexibility of the cell membrane, thus warm weather animals don't need as many polyunsaturated fats in their membrane.  
+
+      
        
         If the user identifies any of the points described above, start with encouragement about what the user did well.  If the user's answer is completely incorrect, start with a neutral statement.  Then, summarize what the user has gotten correct. If the user has missed an important point, ask them leading questions relating to that point or encourage them to consider addressing these points in their answer.  Encourage the user to revise their response below, unless their answer met all of the guidelines. If the user met all the guidelines, let them know and tell them that they can skip the next question. 
         Do not end your statement with a question. 
