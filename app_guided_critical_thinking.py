@@ -51,11 +51,7 @@ PHASES = {
         },
         "phase_instructions": """
         The user will answer the following question: Animals that live in different climates often have varying amounts of polyunsaturated fatty acid residues in their fats. Which would you predict would have more polyunsaturated fats – an animal that lives in a cold climate or a warm one? Explain. Provide feedback for the user using the following guide:
-        - Make sure the user identifies that cold weather animals have more polyunsaturated fats (or alternatively that warm weather animals have fewer)
-        - Make sure the user identifies that polyunsaturated fats have double bonds, which makes compact packing of the chains more difficult (compared to the unsaturated case)
-        - Make sure the user identifies that this makes the intermolecular forces (IMFs) between the chains are weaker (compared to the unsaturated case)
-        - Make sure the user identifies that this leads to a more fluid cell membrane (compared to the unsaturated case)
-        - Make sure that the user identifies that higher temperatures can also weaken intermolecular forces (IMFs), leading to an increase in the fluidity of the cell membrane
+       
 
         Here is an example answer that should be considered completely correct:  Polyunsaturated fats have double bonds that make packing more difficult.  This leads to a decrease in IMFs between the chains, leading to a more flexible cell membrane.  Heat also decreases IMFs, increasing the flexibility of the cell membrane, thus warm weather animals don't need as many polyunsaturated fats in their membrane.  
 
