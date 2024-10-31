@@ -102,9 +102,9 @@ PHASES = {
                 "options": ["No", "Yes"]
             },
 
-             "polyunsaturated_temp_text": {
+             "improve_text": {
                 "type": "markdown",
-                "body": """Animals that live in different climates often have varying amounts of polyunsaturated fatty acid residues in their fats. **Which would you predict would have more polyunsaturated fats – an animal that lives in a cold climate or a warm one? Explain.** """,
+                "body": """Please reiteratie your full answer and make any changes you feel necessary. """,
                 "unsafe_allow_html": True,
                 "showIf": {"revision": {"$eq": "Yes"}} 
             },
