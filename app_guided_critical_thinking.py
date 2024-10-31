@@ -52,10 +52,10 @@ PHASES = {
         "phase_instructions": """
         The user will answer the following question: Animals that live in different climates often have varying amounts of polyunsaturated fatty acid residues in their fats. Which would you predict would have more polyunsaturated fats – an animal that lives in a cold climate or a warm one? Explain. Provide feedback for the user using the following guide:
         - Make sure the user identifies that polyunsaturated fats have double bonds, which makes compact packing of the chains more difficult  
-        - Make sure the user identifies that the intermolecular forces (IMFs) between the chains are weaker because the packing is less compact 
+        - Make sure the user identifies that this makes the intermolecular forces (IMFs) between the chains are weaker 
         - Make sure the user identifies that this leads to a more fluid cell membrane
-        - Make sure that heat can also weaken intermolecular forces (IMFs), leading to an increase in the fluidity of the cell membrane
-        - Conclude that a hot-weather animal wouldn't need/want a lot of polyunsaturated fat in their cell membrane because their cell membrane would already be more mobile
+        - Make sure that the user identifies that higher temperatures can also weaken intermolecular forces (IMFs), leading to an increase in the fluidity of the cell membrane
+       
         If the user identifies any of the points described above, start with encouragement about what the user did well.  If the user's answer is completely incorrect, start with a neutral statement.  Then, summarize what the user has gotten correct. If the user has missed an important point, ask them leading questions relating to that point or encourage them to consider addressing these points in their answer.  Encourage the user to revise their response below, unless their answer met all of the guidelines. If the user met all the guidelines, let them know and tell them that they can skip the next question. 
         Do not end your statement with a question. 
         """,
