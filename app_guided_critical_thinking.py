@@ -102,13 +102,7 @@ PHASES = {
                 "options": ["No", "Yes"]
             },
 
-             "improve_text": {
-                "type": "markdown",
-                "body": """Please reiteratie your full answer and make any changes you feel necessary. """,
-                "unsafe_allow_html": True,
-                "showIf": {"revision": {"$eq": "Yes"}} 
-            },
-
+       
          
             "multimedia_principle_revised": {
                 "type": "text_area",
@@ -133,7 +127,7 @@ PHASES = {
         If the user has improved their response,  start with encouragement about what the user did well. If the user did not edit their answer, express some disappointment.  Then, summarize the update that the user has made to their answer. If the user has missed an important point, tell them what it is, but don't make suggestions if the users answer is generally correct. De-emphasize feedback about connecting the chemistry to animal survival. When evaluating the answer, please take into account the user's previous response as well as this one.
         Do not end your statement with a question. 
         """,
-        "user_prompt": "When asked if I wanted to revise my response I said {revision}.  If I said no, don't reevaluate my answer, just thank me for my time.  Otherwise, my asnwer is {polyunsaturated_temp} and {multimedia_principle_revised}",
+        "user_prompt": "When asked if I wanted to revise my response I said {revision}.  If I said no, don't reevaluate my answer, just thank me for my participation.  Otherwise, my asnwer is {polyunsaturated_temp} and {multimedia_principle_revised}",
         "ai_response": True,
         "scored_phase": False,
         "minimum_score": 2,
