@@ -22,7 +22,8 @@ PHASES = {
         "fields": {
             "name": {
                 "type": "image",
-                "image": "https://appsforeducation.s3.amazonaws.com/cholesterol.jpg",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Polar_Bear_imported_from_iNaturalist_photo_35085101_on_1_January_2024.jpg",
+                "alt": "An image of a polar bear",
                 "caption": "A series of artery cutaways showing a progression of some kind of blockage.",
             }
 
