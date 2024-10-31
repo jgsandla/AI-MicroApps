@@ -24,11 +24,12 @@ PHASES = {
                 "type": "image",
                 "image": "https://appsforeducation.s3.amazonaws.com/cholesterol.jpg",
                 "caption": "A series of artery cutaways showing a progression of some kind of blockage.",
-            },
+            }
 
 
 
         }
+ },
 
 
 
