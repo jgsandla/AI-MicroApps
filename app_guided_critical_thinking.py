@@ -88,60 +88,7 @@ PHASES = {
     },
 
 
-"phase1": {
-        "name": "Personal Information",
-        "fields": {
-            "name": {
-                "type": "text_input",
-                "label": "What is your first name?",
-                "helper": "First name only, please",
-                "value": "Jane"
-            },
-            "age": {
-                "type": "number_input",
-                "label": "What is your age?",
-                "min_value": 16,
-                "max_value": 65,
-                "value": 25
-            },
-            "education_level": {
-                "type": "radio",
-                "label": "What is your highest level of education?",
-                "options": ["High School", "Associate's Degree", "Bachelor's Degree", "Master's Degree", "PhD"],
-                "value": ""
-            },
-            "experience_years": {
-                "type": "number_input",
-                "label": "How many years of work experience do you have?",
-                "min_value": 0,
-                "max_value": 40,
-                "value": 0
-            },
-            "current_field": {
-                "type": "text_input",
-                "label": "What is your current field of work? (If applicable)",
-                "value": "",
-                "showIf": {"experience_years": {"$gt": 0}}
-            }
-        },
-        "phase_instructions": "Please provide your basic details.",
-        "user_prompt": [
-            {
-                "condition": {"$and": [{"age": {"$lt": 25}}, {"education_level": "Bachelor's Degree"}]},
-                "prompt": "I am {name}, aged {age}. I recently completed my Bachelor's Degree and have {experience_years} years of experience in {current_field}. I'm eager to explore my career options."
-            },
-            {
-                "condition": {"$and": [{"age": {"$gte": 25}}, {"experience_years": {"$gte": 5}}]},
-                "prompt": "My name is {name}, and I am {age} years old. With a {education_level} and over {experience_years} years of experience in {current_field}, I'm seeking to advance my career to the next level."
-            },
-            {
-                "condition": {"experience_years": {"$lt": 2}},
-                "prompt": "I am {name}, {age} years old, with an education level of {education_level} and less than {experience_years} years of experience in {current_field}. I'm looking to enter a field where I can grow and gain more experience."
-            }
-        ],
-        "show_prompt": True,
-        "allow_skip": True
-    },
+
 
 
  
