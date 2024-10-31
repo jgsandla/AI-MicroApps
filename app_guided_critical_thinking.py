@@ -26,13 +26,13 @@ PHASES = {
     "summarize": {
         "name": "Answer the Question",
         "fields": {
-            "polar_bear_image":{
-                "type": "image",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Polar_Bear_imported_from_iNaturalist_photo_35085101_on_1_January_2024.jpg",
-                "alt": "An image of a polar bear",
-                "width": "200px",
-                "caption": "An image of a polar bear."
-            },
+            #"polar_bear_image":{
+             #   "type": "image",
+              #  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Polar_Bear_imported_from_iNaturalist_photo_35085101_on_1_January_2024.jpg",
+               # "alt": "An image of a polar bear",
+                #"width": "200px",
+                #"caption": "An image of a polar bear."
+            #},
              
 
 
