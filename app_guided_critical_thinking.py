@@ -68,7 +68,7 @@ PHASES = {
         """,
         "user_prompt": "{polyunsaturated_temp}",
         "ai_response": True,
-        "scored_phase": True,
+        "scored_phase": False,
         "minimum_score": 0,
         "rubric": """
             1. Definition
