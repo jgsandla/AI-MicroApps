@@ -43,10 +43,10 @@ PHASES = {
                 "body": """Animals that live in different climates often have varying amounts of polyunsaturated fatty acid residues in their fats. **Which would you predict would have more polyunsaturated fats – an animal that lives in a cold climate or a warm one? Explain.** """,
                 "unsafe_allow_html": True,
             },
-            "multimedia_principle": {
+            "polyunsaturated_temp": {
                 "type": "text_area",
                 "height": 200,
-                "label": """Explain in your own words the Multimedia Principle on course development. Describe an example of how you might use the multimedia principle in practice.""",
+                "label": """Animals that live in different climates often have varying amounts of polyunsaturated fatty acid residues in their fats. Which would you predict would have more polyunsaturated fats – an animal that lives in a cold climate or a warm one? Explain.""",
                 "label_visibility": "hidden",
                 "value": "The multimedia principle is the idea that learner's retain information better when viewing app_images that match the audio, rather than audio alone. In my own work, I expect that I might try to use app_images that support the audio instead of purely decorative app_images or \"talking head\" format. ",
             },
