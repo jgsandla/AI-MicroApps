@@ -95,6 +95,14 @@ PHASES = {
     "improve": {
         "name": "Revise your Response",
         "fields": {
+
+            "revision": {
+                "type": "radio",
+                "label": "Would you like to revise your response?",
+                "options": ["Yes", "No"]
+            },
+
+         
             "multimedia_principle_revised": {
                 "type": "text_area",
                 "height": 200,
