@@ -30,7 +30,7 @@ PHASES = {
             }
 
         },
-        "phase_instructions": "The user will provide their name. Please welcome them by name. ",
+        "phase_instructions": "Please summarize the courses available to the student ",
         "user_prompt": "{name}",
         "allow_skip": True,
     },
