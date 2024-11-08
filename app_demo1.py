@@ -18,6 +18,8 @@ HTML_BUTTON = {
 SYSTEM_PROMPT = """You provide brief 1-2 sentence answers to the instructions you are provided. You never ask questions in your responses. """
 
 PHASES = {
+
+ 
     "phase1": {
         "name": "Text Input",
         "fields": {
