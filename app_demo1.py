@@ -212,6 +212,24 @@ PHASES = {
     "phase1": {
         "name": "Recommendation",
         "fields": {
+
+
+              "next_course": {
+                "type": "radio",
+                "label": "Have you already taken a course and are looking for a recommendation for the next course to take?",
+                "options": ["No", "Yes"],
+                
+               
+            },
+
+           "previous_course": {
+                "type": "text_input",
+                "label": """What was the name of the course?""",
+                "showIf": {"next_course": {"$eq": "Yes"}}
+       
+            },
+
+         
             "student_query": {
                 "type": "text_area",
                 "height": 200,
@@ -266,20 +284,7 @@ PHASES = {
             }, 
 
 
-            "next_course": {
-                "type": "radio",
-                "label": "Have you already taken a course and are looking for a recommendation for the next course to take?",
-                "options": ["No", "Yes"],
-                 "showIf": {"more": {"$eq": "Yes"}},
-               
-            },
-
-           "previous_course": {
-                "type": "text_input",
-                "label": """What was the name of the course?""",
-                "showIf": {"next_course": {"$eq": "Yes"}}
-       
-            },
+         
 
         },
         "phase_instructions": "Please recommend a course to the student. Please recommend only one course. If the student indicated that they are interested in online-only courses, please do not recommend courses where the Format includes self-study",
