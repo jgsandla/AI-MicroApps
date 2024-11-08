@@ -176,17 +176,18 @@ o	Organic Materials - Organic compounds: nomenclature, alkanes, alkenes, alkynes
 	Sessions 27, 28, 29, 30, 31, 32
 o	Solid Solutions - Phase stability: unary and binary phase diagrams.
 	Sessions 33, 34, 35
-Format: Videos and materials for self-study
+Format: Self-study
 
 Course Title: Symmetry, Structure, and Tensor Properties of Materials
 Prerequisites: Linear Algebra
 Learning Goals: This course covers the derivation of symmetry theory; lattices, point groups, space groups, and their properties; use of symmetry in tensor representation of crystal properties, including anisotropy and representation surfaces; and applications to piezoelectricity and elasticity.
-Format: Videos and materials for self-study
+Format: Self-study
 
 Course Title: Elecronic, Optical, and Magnetic Materials and Devices
 Prerequisites: Electrical, Optical, and Magnetic Properties of Materials
 Learning Goals: This course is a three-part series which explains the basis of the electrical, optical, and magnetic properties of materials including semiconductors, metals, organics, and insulators. We will show how devices are built to take advantage of these properties. This is illustrated with a wide range of devices, placing a strong emphasis on new and emerging technologies.
 The first part of the course covers electronic materials and devices, including diodes, bipolar junction transistors, MOSFETs, and semiconductor properties. The second part covers optical materials and devices, including photodetectors, solar cells (photovoltaics), displays, light emitting diodes, lasers, optical fibers, optical communications, and photonic devices. The final part of the series covers magnetic materials and devices, including magnetic data storage, motors, transformers, and spintronics.
+Format: Online course
 Syllabus: not available
 
 
