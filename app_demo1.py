@@ -216,7 +216,7 @@ PHASES = {
                 "height": 200,
                 "label": """What would you like to learn about?""",
                
-            }
+            },
 
           "revision": {
                 "type": "radio",
