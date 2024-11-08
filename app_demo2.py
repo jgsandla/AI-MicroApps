@@ -300,7 +300,7 @@ PHASES = {
          
 
         },
-        "phase_instructions": "Please recommend a course to the student. Please recommend only one course. If the student indicated that they are interested in online-only courses, please do not recommend courses where the Format includes self-study",
+        "phase_instructions": "Please recommend a course to the student. Please recommend only one course. If the student indicated that they are interested in online-only courses, please do not recommend courses where the Format includes self-study. If a course is indicated to be of challenging difficulty, lead by asking if they're looking for a challenge, or something like that.",
         "user_prompt": [
 
 
