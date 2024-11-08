@@ -7,7 +7,7 @@ APP_INTRO = """This app demonstrates all the fields that are available to a micr
 
 
 
-SHARED_ASSET = {
+SHARED_ASSET = {document_upload()
 }
 
 HTML_BUTTON = { "url": "https://www.dropbox.com/scl/fi/ixywhox3fjw5691mccbqa/MSE-Courses.pdf?rlkey=dl9i8nszaflubk4f1wmsv3o3d&st=tvdornrw&dl=0",
