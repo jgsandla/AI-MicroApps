@@ -237,7 +237,7 @@ PHASES = {
                 "label": """What was the name of the course?""",
                 "showIf": {"next_course": {"$eq": "Yes"}}
        
-            }
+            },
 
           "background": {
                 "type": "text_area",
