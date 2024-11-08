@@ -179,12 +179,12 @@ o	Organic Materials - Organic compounds: nomenclature, alkanes, alkenes, alkynes
 	Sessions 27, 28, 29, 30, 31, 32
 o	Solid Solutions - Phase stability: unary and binary phase diagrams.
 	Sessions 33, 34, 35
-Format: Self-study
+Format: Do not recommend this course to students looking for online-only courses
 
 Course Title: Symmetry, Structure, and Tensor Properties of Materials
 Prerequisites: Linear Algebra
 Learning Goals: This course covers the derivation of symmetry theory; lattices, point groups, space groups, and their properties; use of symmetry in tensor representation of crystal properties, including anisotropy and representation surfaces; and applications to piezoelectricity and elasticity.
-Format: Self-study
+Format: Do not recommend this course to students looking for online-only courses
 
 Course Title: Elecronic, Optical, and Magnetic Materials and Devices
 Prerequisites: Electrical, Optical, and Magnetic Properties of Materials
