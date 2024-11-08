@@ -330,8 +330,47 @@ PHASES = {
                
             },
         },
-        "phase_instructions": "The user will introduce their hobbies now, and I'll say what I like about one of those hobbies. ",
-        "user_prompt": "Hi",
+        "phase_instructions": "Revise your previous recommendation based on the new information provided by the user. ",
+         "user_prompt": [
+
+
+            {
+                "condition": {"revise_it": {"$eq": "I'm happy"}},
+                "prompt": "I'm happy with my recommendation.  Thank you."
+            },
+            {
+              "condition": {"$and": [
+                    {"more": "No"},
+                    {"revise_it": "Revise it"}
+                ]},  
+              "prompt": "Here is what I am interested in learning about: {student_query}"
+             
+            },
+            {
+                "condition": {"$and": [
+                    {"more": "Yes"},
+                    {"next_course": "No"},
+                    {"revise_it": "Revise it"}
+                ]},
+                "prompt": "Here is what I am interested in learning about: {student_query}  Here's some information about my academic and work background: {background}.  This is how I answered the question Have you taken Calculus? {Calculus}  This is how I answered the question How would you rank your Python skills? {Python} This is how I answered the queestion  Are you interested in self-study courses? {Self_study} "
+            },
+
+          {
+                "condition": {"$and": [
+                    {"more": "Yes"},
+                    {"next_course": "Yes"},
+                    {"revise_it": "Revise it"}
+                ]},
+                "prompt": "Here is what I am interested in learning about: {student_query}  Here's some information about my academic and work background: {background}.  This is how I answered the question Have you taken Calculus? {Calculus}  This is how I answered the question How would you rank your Python skills? {Python} This is how I answered the queestion  Are you interested in self-study courses? {Self_study}.  I have already taken {previous_course}, and I am looking for a recommendation as to what course to take next. "
+            },
+
+            
+
+         
+        ],
+        "allow_skip": True,
+        "show_prompt": True
+    },
         "allow_skip": True,
   
     },
