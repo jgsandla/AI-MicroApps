@@ -132,7 +132,7 @@ PHASES = {
                     {"willing_to_relocate": "Yes"},
                     {"desired_salary": {"$gt": 100}}
                 ]},
-                "prompt": "I am open to relocating for a job opportunity, and I am aiming for a salary above $100K. Please suggest a career path that fits these preferences."
+                "prompt": "I am open to relocating for a job opportunity, and I am aiming for a salary above $100K. Please suggest a career path that fits these preferences. If you don't believe you have an appropriate course to recommend, please let the student know that, and do not recommend a course."
             }
         ],
         "show_prompt": True,
