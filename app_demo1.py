@@ -15,7 +15,7 @@ SHARED_ASSET = {
 
 
 
-SYSTEM_PROMPT = """You are helping the user select a class. Based on their goals, backgrounds, and previous course history, make a suggestion as to the next class the user should take.  Be polite and friendly. The list of all available courses is available at https://www.dropbox.com/scl/fi/ixywhox3fjw5691mccbqa/MSE-Courses.pdf?rlkey=dl9i8nszaflubk4f1wmsv3o3d&st=tvdornrw&dl=0 Please base your advice on this document."""
+SYSTEM_PROMPT = """You are helping the user select a class. Based on their goals, backgrounds, and previous course history, make a suggestion as to the next class the user should take.  Be polite and friendly. """
 
 SYSTEM_PROMPT = """Here is the course information that you will need to base your course recommendations on.  Only recommend courses outlined in this document or prerequisite courses that would allow the student to take one of the outlined courses.
 
@@ -51,6 +51,10 @@ Topic 3: Foundations
 •	Reversible and irreversible heat engines
 •	Introduction to statistical thermodynamics
 Format: Online course
+Depth:  This is not a good course to begin with.  It is best recommended to students studying engineering at university or to students who have expressed direct interest in the topics covered in this course.
+Difficulty: This is a challenging course
+
+
 Course Title: Electronic, Optical and Magnetic Properties of Materials
 Prerequisites: Calculus, Physics Electricity and Magnetism, Chemistry
 
@@ -62,6 +66,8 @@ Syllabus:  We don’t have a syllabus for this course
 
 Format: Online course
 
+
+Difficulty: This is a challenging course
 
 Course Title: Cellular Solids
 
@@ -106,6 +112,10 @@ This fourth module focuses on phase transformations, including nucleation and gr
 Syllabus: Not available
 
 Format: Online course
+
+Depth:  This is not a good course to begin with.  It is best recommended to students studying engineering at university or to students who have expressed direct interest in the topics covered in this course, or to students who have completed Thermodynamics and are looking for a next course
+
+Difficulty: This is a challenging course
 
 
 Course Title: Organic and Biomaterials Chemistry, Part 1
@@ -290,10 +300,10 @@ PHASES = {
          
 
         },
-        "phase_instructions": "Please recommend a course to the student. Please recommend only one course. If the student indicated that they are interested in online-only courses, please do not recommend courses where the Format includes self-study",
+        "phase_instructions": "Please recommend a course to the student. Please recommend only one course. If the student indicated that they are interested in online-only courses, please do not recommend courses where the Format includes self-study. If a course is indicated to be of challenging difficulty, lead by asking if they're looking for a challenge, or something like that.",
         "user_prompt": [
-           
-           
+
+
              {
                 "condition": {"$and": [
                     {"more": "No"},
@@ -309,6 +319,7 @@ PHASES = {
                 ]},
                 "prompt": "Here is what I am interested in learning about: {student_query}  I have already taken {previous_course}, and I am looking for a recommendation as to what course to take next."
             },
+           
             {
                 "condition": {"$and": [
                     {"more": "Yes"},
@@ -387,7 +398,7 @@ PHASES = {
       #              {"next_course": "Yes"},
       #              {"revise_it": "Revise it"}
       #          ]},
-      #          "prompt": "Here is what I am interested in learning about: {student_query}  Here's some information about my academic and work background: {background}.  This is how I answered the question Have you taken Calculus? {Calculus}  This is how I answered the question How would you rank your Python skills? {Python} This is how I answered the queestion  Are you interested in self-study courses? {Self_study}.  I have already taken {previous_course}, and I am looking for a recommendation as to what course to take next. "
+      #          "prompt": "Here is what I am interested in learning about: {student_query}  Here's some information about my academic and work background: {background}.  This is how I answered the question Have you taken Calculus? {Calculus}  This is how I answered the question How would you rank your Python skills? {Python} This is how I answered the queestion  Are you interested in self-study courses? {Self_study}.  I have already taken {previous_course}, and I am looking for a recommendation as to what course to take next. Do not recommend that I take {previous_course}.  Make a different recommendation "
       #      },
 
             
@@ -408,18 +419,18 @@ LLM_CONFIG_OVERRIDE = {}
 SCORING_DEBUG_MODE = True
 DISPLAY_COST = True
 
-COMPLETION_MESSAGE = "You've reached the end! I hope you learned something!"
+
 COMPLETION_CELEBRATION = False
 
 RAG_IMPLEMENTATION = False # make true only when document exists
 SOURCE_DOCUMENT = "sample.pdf" # file uploaded in source_docs if only
 
-#PAGE_CONFIG = {
-#    "page_title": "Demo 1",
-#    "page_icon": "️🖥️",
-#    "layout": "centered",
-#    "initial_sidebar_state": "expanded"
-#}
+PAGE_CONFIG = {
+    "page_title": "Demo 1",
+    "page_icon": "️🖥️",
+    "layout": "centered",
+    "initial_sidebar_state": "expanded"
+}
 
 SIDEBAR_HIDDEN = False
 
