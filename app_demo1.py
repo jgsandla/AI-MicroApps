@@ -371,10 +371,7 @@ PHASES = {
         "allow_skip": True,
         "show_prompt": True
     },
-        "allow_skip": True,
-  
-    },
- 
+       
    
 
 }
