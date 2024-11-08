@@ -214,7 +214,7 @@ PHASES = {
             }
 
         },
-        "phase_instructions": "Please recommend a course to the student",
+        "phase_instructions": "Please recommend a course to the student. Please recommend only one course.",
         "user_prompt": "{student_query}",
         "allow_skip": True,
     },
