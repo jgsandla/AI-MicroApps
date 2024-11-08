@@ -270,6 +270,7 @@ PHASES = {
                 "type": "radio",
                 "label": "Have you already taken a course and are looking for a recommendation for the next course to take?",
                 "options": ["No", "Yes"],
+                 "showIf": {"more": {"$eq": "Yes"}},
                
             },
 
