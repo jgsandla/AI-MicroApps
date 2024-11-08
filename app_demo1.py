@@ -2,7 +2,7 @@ PUBLISHED = True
 APP_URL = "https://microapp-demo1.streamlit.app"
 
 APP_TITLE = "Basic Prototype of Course Recommender System"
-APP_INTRO = """This app demonstrates all the fields that are available to a micro-app. It can be used to understand what kinds of inputs a micro-app can ask for, and how to configure those fields. 
+APP_INTRO = """This app uses ChatGPT to recommend a course to a student. To do this, we provide ChatGPT with information about our courses as well as answers that the student provides to a series of questions.
 """
 
 
