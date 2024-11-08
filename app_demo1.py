@@ -219,25 +219,30 @@ PHASES = {
                
             },
 
-          "more": {
-                "type": "radio",
-                "label": "Would you like to answer a few more questions that might help us make a better recommendation?",
-                "options": ["No", "Yes"]
-            },
-
            "next_course": {
                 "type": "radio",
                 "label": "Have you already taken a course and are looking for a recommendation for the next course to take?",
                 "options": ["No", "Yes"],
-                "showIf": {"more": {"$eq": "Yes"}}
+               
             },
 
-          "previous_course": {
+           "previous_course": {
                 "type": "text_input",
                 "label": """What was the name of the course?""",
                 "showIf": {"next_course": {"$eq": "Yes"}}
        
             },
+
+          "more": {
+                "type": "radio",
+                "label": "Would you like to answer a few more questions that might help us make a better recommendation?",
+                "options": ["No", "Yes"]
+                 "showIf": {"next_course": {"$eq": "No"}}
+            },
+
+        
+
+        
 
           "background": {
                 "type": "text_area",
