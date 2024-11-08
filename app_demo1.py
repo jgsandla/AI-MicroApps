@@ -215,7 +215,7 @@ PHASES = {
             "student_query": {
                 "type": "text_area",
                 "height": 200,
-                "label": """What would you like to learn about?""",
+                "label": """What would you like to learn about and why?""",
                
             },
 
@@ -225,11 +225,26 @@ PHASES = {
                 "options": ["No", "Yes"]
             },
 
+           "next_course": {
+                "type": "radio",
+                "label": "Have you already taken a course and are looking for a recommendation for the next course to take?",
+                "options": ["No", "Yes"],
+                "showIf": {"more": {"$eq": "Yes"}}
+            },
+
+          "previous_course": {
+                "type": "text_input",
+                "label": """What was the name of the course?""",
+                "showIf": {"next_course": {"$eq": "Yes"}}
+       
+            }
+
           "background": {
                 "type": "text_area",
                 "height": 100,
                 "label": """Tell us something about your academic and/or work background.  Questions you might want to answer: What is the highest level of education you've completed? In what field? What do you do professionally?""",
                 "showIf": {"more": {"$eq": "Yes"}}
+                "showIf": {"next_course": {"$eq": "No"}}
             },
 
         
