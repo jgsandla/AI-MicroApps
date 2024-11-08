@@ -243,7 +243,7 @@ PHASES = {
                 "type": "text_area",
                 "height": 100,
                 "label": """Tell us something about your academic and/or work background.  Questions you might want to answer: What is the highest level of education you've completed? In what field? What do you do professionally?""",
-                "showIf": {"more": {"$eq": "Yes"}}
+                "showIf": {"more": {"$eq": "Yes"}},
                 "showIf": {"next_course": {"$eq": "No"}}
             },
 
