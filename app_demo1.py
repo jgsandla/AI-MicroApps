@@ -241,7 +241,7 @@ PHASES = {
             },
             {
                 "condition": {"more": {"$eq": "Yes"}},
-                "prompt": "Here is what I am interested in learning about: {student_query}  Here's some information about my academic and work background: {background"} "
+                "prompt": "Here is what I am interested in learning about: {student_query}  Here's some information about my academic and work background: {background} "
             },
 
          
