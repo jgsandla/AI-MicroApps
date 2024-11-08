@@ -11,7 +11,8 @@ APP_HOW_IT_WORKS = """
 SHARED_ASSET = {
 }
 
-HTML_BUTTON = {
+HTML_BUTTON = { "url": "https://curricume-uploads.s3.amazonaws.com/cdc_ebola_poster.pdf",
+    "button_text":"Read PDF"
 
 }
 
