@@ -207,7 +207,8 @@ PHASES = {
         "name": "Text Input",
         "fields": {
             "student_query": {
-                "type": "text_input",
+                "type": "text_area",
+                "height": 200
                 "label": """Tell me something about what you're interested in learning about. If you've taken a course in the past and you'd like to know what to take next, please let me know the name of the course""",
                
             }
