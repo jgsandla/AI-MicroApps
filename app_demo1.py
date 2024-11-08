@@ -15,7 +15,7 @@ HTML_BUTTON = { "url": "https://www.dropbox.com/scl/fi/ixywhox3fjw5691mccbqa/MSE
 
 }
 
-SYSTEM_PROMPT = """You provide brief 1-2 sentence answers to the instructions you are provided. You never ask questions in your responses. """
+SYSTEM_PROMPT = """You are helping the user select a class. Based on their goals, backgrounds, and previous course history, make a suggestion as to the next class the user should take.  Be polite and friendly. """
 
 PHASES = {
 
