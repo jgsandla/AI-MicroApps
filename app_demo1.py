@@ -11,7 +11,7 @@ SHARED_ASSET = {
 }
 
 HTML_BUTTON = { "url": "https://www.dropbox.com/scl/fi/ixywhox3fjw5691mccbqa/MSE-Courses.pdf?rlkey=dl9i8nszaflubk4f1wmsv3o3d&st=tvdornrw&dl=0",
-    "button_text":"This is the document that is providing course information to the system"
+    "button_text":"Hi DLL! This is the document that is currently providing the course information to ChatGPT"
 
 }
 
