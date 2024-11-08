@@ -5,14 +5,13 @@ APP_TITLE = "MicroApp Demo App #1"
 APP_INTRO = """This app demonstrates all the fields that are available to a micro-app. It can be used to understand what kinds of inputs a micro-app can ask for, and how to configure those fields. 
 """
 
-APP_HOW_IT_WORKS = """
- """
+
 
 SHARED_ASSET = {
 }
 
 HTML_BUTTON = { "url": "https://www.dropbox.com/scl/fi/ixywhox3fjw5691mccbqa/MSE-Courses.pdf?rlkey=dl9i8nszaflubk4f1wmsv3o3d&st=tvdornrw&dl=0",
-    "button_text":"Read PDF"
+    "button_text":"This is the document that is providing course information to the system"
 
 }
 
