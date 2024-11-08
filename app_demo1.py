@@ -402,12 +402,12 @@ COMPLETION_CELEBRATION = False
 RAG_IMPLEMENTATION = False # make true only when document exists
 SOURCE_DOCUMENT = "sample.pdf" # file uploaded in source_docs if only
 
-PAGE_CONFIG = {
-    "page_title": "Demo 1",
-    "page_icon": "️🖥️",
-    "layout": "centered",
-    "initial_sidebar_state": "expanded"
-}
+#PAGE_CONFIG = {
+#    "page_title": "Demo 1",
+#    "page_icon": "️🖥️",
+#    "layout": "centered",
+#    "initial_sidebar_state": "expanded"
+#}
 
 SIDEBAR_HIDDEN = False
 
