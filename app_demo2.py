@@ -15,7 +15,7 @@ SHARED_ASSET = {
 
 
 
-SYSTEM_PROMPT = """You are helping the user select a class. Based on their goals, backgrounds, and previous course history, make a suggestion as to the next class the user should take.  Be polite and friendly. The list of all available courses is available at https://www.dropbox.com/scl/fi/ixywhox3fjw5691mccbqa/MSE-Courses.pdf?rlkey=dl9i8nszaflubk4f1wmsv3o3d&st=tvdornrw&dl=0 Please base your advice on this document."""
+SYSTEM_PROMPT = """You are helping the user select a class. Based on their goals, backgrounds, and previous course history, make a suggestion as to the next class the user should take.  Be polite and friendly. """
 
 SYSTEM_PROMPT = """Here is the course information that you will need to base your course recommendations on.  Only recommend courses outlined in this document or prerequisite courses that would allow the student to take one of the outlined courses.
 
@@ -51,6 +51,10 @@ Topic 3: Foundations
 •	Reversible and irreversible heat engines
 •	Introduction to statistical thermodynamics
 Format: Online course
+Depth:  This is not a good course to begin with.  It is best recommended to students studying engineering at university or to students who have expressed direct interest in the topics covered in this course.
+Difficulty: This is a challenging course
+
+
 Course Title: Electronic, Optical and Magnetic Properties of Materials
 Prerequisites: Calculus, Physics Electricity and Magnetism, Chemistry
 
@@ -62,7 +66,8 @@ Syllabus:  We don’t have a syllabus for this course
 
 Format: Online course
 
-Depth:  This is not a good course to begin with.  It is best recommended to students studying engineering at university or to students who have expressed direct interest in the topics covered in this course.
+
+Difficulty: This is a challenging course
 
 Course Title: Cellular Solids
 
@@ -109,6 +114,8 @@ Syllabus: Not available
 Format: Online course
 
 Depth:  This is not a good course to begin with.  It is best recommended to students studying engineering at university or to students who have expressed direct interest in the topics covered in this course, or to students who have completed Thermodynamics and are looking for a next course
+
+Difficulty: This is a challenging course
 
 
 Course Title: Organic and Biomaterials Chemistry, Part 1
