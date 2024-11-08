@@ -233,8 +233,21 @@ PHASES = {
 
         },
         "phase_instructions": "Please recommend a course to the student. Please recommend only one course.",
-        "user_prompt": "{student_query}",
+        "user_prompt": [
+           
+            {
+                "condition": {"more": {"$eq": "No"}},
+                "prompt": "Here is what I am interested in learning about: {student_query}"
+            },
+            {
+                "condition": {"more": {"$eq": "Yes"}},
+                "prompt": "Here is what I am interested in learning about: {student_query}  Here's some information about my academic and work background: {background"} "
+            },
+
+         
+        ],
         "allow_skip": True,
+        "show_prompt": True
     },
     "phase2": {
         "name": "Text Area",
