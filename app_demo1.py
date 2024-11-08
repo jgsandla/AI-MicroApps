@@ -331,7 +331,7 @@ PHASES = {
             },
         },
         "phase_instructions": "The user will introduce their hobbies now, and I'll say what I like about one of those hobbies. ",
-        "user_prompt": "{hobbies}",
+        "user_prompt": "Hi",
         "allow_skip": True,
   
     },
