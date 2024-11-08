@@ -210,7 +210,7 @@ PHASES = {
 
  
     "phase1": {
-        "name": "Text Input",
+        "name": "Recommendation",
         "fields": {
             "student_query": {
                 "type": "text_area",
@@ -313,14 +313,22 @@ PHASES = {
         "show_prompt": True
     },
     "phase2": {
-        "name": "Text Area",
+        "name": "Revised Recommendation",
         "fields": {
-            "hobbies": {
+             "revise_it": {
+                "type": "radio",
+                "label": "Are you happy with the recommendation, or would you like a revised recommendation?",
+                "options": ["I'm happy", "Revise it"],
+                
+            },
+
+         "revised_query": {
                 "type": "text_area",
-                "height": "200",
-                "label": """What are your favorite hobbies?""",
-                "value": "Golf, Crossword Puzzles, Fantasy Football",
-            }
+                "height": 200,
+                "label": """Is there anything you would like us to know that might improve the recommendation?""",
+                "showIf": {"revise_it": {"$eq": "Revise it"}}
+               
+            },
         },
         "phase_instructions": "The user will introduce their hobbies now, and I'll say what I like about one of those hobbies. ",
         "user_prompt": "{hobbies}",
