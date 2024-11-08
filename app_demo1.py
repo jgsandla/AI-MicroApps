@@ -5,7 +5,10 @@ APP_TITLE = "Basic Prototype of Course Recommender System"
 APP_INTRO = """This app uses ChatGPT to recommend a course to a student. To do this, we provide ChatGPT with information about our courses as well as answers that the student provides to a series of questions.
 """
 
-
+HTML_BUTTON = {
+    "url":"https://www.dropbox.com/scl/fi/ixywhox3fjw5691mccbqa/MSE-Courses.pdf?rlkey=dl9i8nszaflubk4f1wmsv3o3d&st=fztczec8&dl=0",
+    "button_text":"Hi!  Click here if you want to see the current course information this recommender is based off of."
+}
 
 SHARED_ASSET = {
 }
