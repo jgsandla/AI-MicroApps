@@ -62,6 +62,7 @@ Syllabus:  We don’t have a syllabus for this course
 
 Format: Online course
 
+Depth:  This is not a good course to begin with.  It is best recommended to students studying engineering at university or to students who have expressed direct interest in the topics covered in this course.
 
 Course Title: Cellular Solids
 
@@ -106,6 +107,8 @@ This fourth module focuses on phase transformations, including nucleation and gr
 Syllabus: Not available
 
 Format: Online course
+
+Depth:  This is not a good course to begin with.  It is best recommended to students studying engineering at university or to students who have expressed direct interest in the topics covered in this course, or to students who have completed Thermodynamics and are looking for a next course
 
 
 Course Title: Organic and Biomaterials Chemistry, Part 1
