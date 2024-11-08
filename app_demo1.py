@@ -51,7 +51,7 @@ Topic 3: Foundations
 •	Reversible and irreversible heat engines
 •	Introduction to statistical thermodynamics
 Format: Online course
-Depth:  This is not a good course to begin with.  It is best recommended to students studying engineering at university or to students who have expressed direct interest in the topics covered in this course.
+Depth:  This is not a good course to begin with.  It is best recommended to students studying engineering at university or to students who have expressed direct interest in the topics covered in this course. If another course could meet the student's needs, consider recommending that one instead.
 Difficulty: This is a challenging course
 
 
@@ -113,7 +113,7 @@ Syllabus: Not available
 
 Format: Online course
 
-Depth:  This is not a good course to begin with.  It is best recommended to students studying engineering at university or to students who have expressed direct interest in the topics covered in this course, or to students who have completed Thermodynamics and are looking for a next course
+Depth:  This is not a good course to begin with.  It is best recommended to students studying engineering at university or to students who have expressed direct interest in the topics covered in this course, or to students who have completed Thermodynamics and are looking for a next course. If another course could meet the student's needs, consider recommending that one instead.
 
 Difficulty: This is a challenging course
 
