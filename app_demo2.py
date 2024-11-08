@@ -292,11 +292,24 @@ PHASES = {
         },
         "phase_instructions": "Please recommend a course to the student. Please recommend only one course. If the student indicated that they are interested in online-only courses, please do not recommend courses where the Format includes self-study",
         "user_prompt": [
-           
-            {
-                "condition": {"more": {"$eq": "No"}},
-                "prompt": "Here is what I am interested in learning about: {student_query}"
+
+
+             {
+                "condition": {"$and": [
+                    {"more": "No"},
+                    {"next_course": "No"}
+                ]},
+                 "prompt": "Here is what I am interested in learning about: {student_query}"
             },
+
+             {
+                "condition": {"$and": [
+                    {"more": "No"},
+                    {"next_course": "Yes"}
+                ]},
+                "prompt": "Here is what I am interested in learning about: {student_query}  I have already taken {previous_course}, and I am looking for a recommendation as to what course to take next."
+            },
+           
             {
                 "condition": {"$and": [
                     {"more": "Yes"},
