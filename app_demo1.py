@@ -330,7 +330,7 @@ PHASES = {
                
             },
         },
-        "phase_instructions": "Revise your previous recommendation based on the new information provided by the user. ",
+        "phase_instructions": "Revise your previous recommendation based on the new information provided by the user. Suggest only one course. If the user says that they were happy with their recommendation, don't suggest a course and thank them for their time.",
          "user_prompt": [
 
 
