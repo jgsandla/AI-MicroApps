@@ -219,7 +219,54 @@ PHASES = {
                
             },
 
-           "next_course": {
+        
+
+          "more": {
+                "type": "radio",
+                "label": "Would you like to answer a few more questions that might help us make a better recommendation?",
+                "options": ["No", "Yes"],
+                
+            },
+
+        
+
+        
+
+          "background": {
+                "type": "text_area",
+                "height": 100,
+                "label": """Tell us something about your academic and/or work background.  Questions you might want to answer: What is the highest level of education you've completed? In what field? What do you do professionally?""",
+                "showIf": {"more": {"$eq": "Yes"}},
+               
+            },
+
+        
+            "Calculus": {
+                "type": "radio",
+                "options": ['Yes', 'No'],
+                "label": "Have you taken Calculus?",
+                "showIf": {"more": {"$eq": "Yes"}},
+               
+            }, 
+
+           "Python": {
+                "type": "radio",
+                "options": ['Beginner', 'Intermediate', 'Advanced'],
+                "label": "How would you rank your Python skills?",
+                "showIf": {"more": {"$eq": "Yes"}},
+               
+            }, 
+
+           "Self_study": {
+                "type": "radio",
+                "options": ['Please only recommend courses that are entirely online', 'Self-study works for me, too'],
+                "label": "Some of our courses are entirely online, which allows you to take course assessments online. Others contain self-study materials that you would need to grade yourself.  Are you interested in self-study courses?",
+                "showIf": {"more": {"$eq": "Yes"}},
+                
+            }, 
+
+
+            "next_course": {
                 "type": "radio",
                 "label": "Have you already taken a course and are looking for a recommendation for the next course to take?",
                 "options": ["No", "Yes"],
@@ -232,51 +279,6 @@ PHASES = {
                 "showIf": {"next_course": {"$eq": "Yes"}}
        
             },
-
-          "more": {
-                "type": "radio",
-                "label": "Would you like to answer a few more questions that might help us make a better recommendation?",
-                "options": ["No", "Yes"],
-                 "showIf": {"next_course": {"$eq": "No"}}
-            },
-
-        
-
-        
-
-          "background": {
-                "type": "text_area",
-                "height": 100,
-                "label": """Tell us something about your academic and/or work background.  Questions you might want to answer: What is the highest level of education you've completed? In what field? What do you do professionally?""",
-                "showIf": {"more": {"$eq": "Yes"}},
-                "showIf": {"next_course": {"$eq": "No"}}
-            },
-
-        
-            "Calculus": {
-                "type": "radio",
-                "options": ['Yes', 'No'],
-                "label": "Have you taken Calculus?",
-                "showIf": {"more": {"$eq": "Yes"}},
-                "showIf": {"next_course": {"$eq": "No"}}
-            }, 
-
-           "Python": {
-                "type": "radio",
-                "options": ['Beginner', 'Intermediate', 'Advanced'],
-                "label": "How would you rank your Python skills?",
-                "showIf": {"more": {"$eq": "Yes"}},
-                "showIf": {"next_course": {"$eq": "No"}}
-            }, 
-
-           "Self_study": {
-                "type": "radio",
-                "options": ['Please only recommend courses that are entirely online', 'Self-study works for me, too'],
-                "label": "Some of our courses are entirely online, which allows you to take course assessments online. Others contain self-study materials that you would need to grade yourself.  Are you interested in self-study courses?",
-                "showIf": {"more": {"$eq": "Yes"}},
-                "showIf": {"next_course": {"$eq": "No"}}
-            }, 
-         
 
         },
         "phase_instructions": "Please recommend a course to the student. Please recommend only one course. If the student indicated that they are interested in online-only courses, please do not recommend courses where the Format includes self-study",
