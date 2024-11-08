@@ -11,7 +11,7 @@ APP_HOW_IT_WORKS = """
 SHARED_ASSET = {
 }
 
-HTML_BUTTON = { "url": "https://curricume-uploads.s3.amazonaws.com/cdc_ebola_poster.pdf",
+HTML_BUTTON = { "url": "https://www.dropbox.com/scl/fi/ixywhox3fjw5691mccbqa/MSE-Courses.pdf?rlkey=dl9i8nszaflubk4f1wmsv3o3d&st=tvdornrw&dl=0",
     "button_text":"Read PDF"
 
 }
