@@ -236,7 +236,7 @@ PHASES = {
           "more": {
                 "type": "radio",
                 "label": "Would you like to answer a few more questions that might help us make a better recommendation?",
-                "options": ["No", "Yes"]
+                "options": ["No", "Yes"],
                  "showIf": {"next_course": {"$eq": "No"}}
             },
 
