@@ -229,7 +229,30 @@ PHASES = {
                 "height": 100,
                 "label": """Tell us something about your academic and/or work background.  Questions you might want to answer: What is the highest level of education you've completed? In what field? What do you do professionally?""",
                 "showIf": {"more": {"$eq": "Yes"}}
-            }
+            },
+
+        
+            "Calculus": {
+                "type": "radio",
+                "options": ['Yes', 'No'],
+                "label": "Have you taken Calculus?",
+                "showIf": {"more": {"$eq": "Yes"}}
+            }, 
+
+           "Python": {
+                "type": "radio",
+                "options": ['Beginner', 'Intermediate', 'Advanced'],
+                "label": "How would you rank your Python knowledge?",
+                "showIf": {"more": {"$eq": "Yes"}}
+            }, 
+
+           "Self_study": {
+                "type": "radio",
+                "options": ['Please only recommend courses that are entirely online', 'Self-study works for me, too'],
+                "label": "Some of our courses are entirely online, which allows you to take course assessments online. Others contain self-study materials that you would need to grade yourself.  Are you interested in self-study courses?",
+                "showIf": {"more": {"$eq": "Yes"}}
+            }, 
+         
 
         },
         "phase_instructions": "Please recommend a course to the student. Please recommend only one course.",
