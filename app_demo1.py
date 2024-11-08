@@ -218,6 +218,12 @@ PHASES = {
                
             }
 
+          "revision": {
+                "type": "radio",
+                "label": "Would you like to answer a few more questions that might help us make a better recommendation?",
+                "options": ["No", "Yes"]
+            },
+
         },
         "phase_instructions": "Please recommend a course to the student. Please recommend only one course.",
         "user_prompt": "{student_query}",
