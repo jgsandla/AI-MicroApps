@@ -242,7 +242,7 @@ PHASES = {
            "Python": {
                 "type": "radio",
                 "options": ['Beginner', 'Intermediate', 'Advanced'],
-                "label": "How would you rank your Python knowledge?",
+                "label": "How would you rank your Python skills?",
                 "showIf": {"more": {"$eq": "Yes"}}
             }, 
 
@@ -264,7 +264,7 @@ PHASES = {
             },
             {
                 "condition": {"more": {"$eq": "Yes"}},
-                "prompt": "Here is what I am interested in learning about: {student_query}  Here's some information about my academic and work background: {background} "
+                "prompt": "Here is what I am interested in learning about: {student_query}  Here's some information about my academic and work background: {background}.  This is how I answered the question Have you taken Calculus? {Calculus}  This is how I answered the question How would you rank your Python skills? {Python} This is how I answered the queestion  Are you interested in self-study courses? {Self-study} "
             },
 
          
