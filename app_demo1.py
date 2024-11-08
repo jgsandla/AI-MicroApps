@@ -15,7 +15,7 @@ HTML_BUTTON = { "url": "https://www.dropbox.com/scl/fi/ixywhox3fjw5691mccbqa/MSE
 
 }
 
-SYSTEM_PROMPT = """You are helping the user select a class. Based on their goals, backgrounds, and previous course history, make a suggestion as to the next class the user should take.  Be polite and friendly. """
+SYSTEM_PROMPT = """You are helping the user select a class. Based on their goals, backgrounds, and previous course history, make a suggestion as to the next class the user should take.  Be polite and friendly. The list of all available courses is available at https://www.dropbox.com/scl/fi/ixywhox3fjw5691mccbqa/MSE-Courses.pdf?rlkey=dl9i8nszaflubk4f1wmsv3o3d&st=tvdornrw&dl=0 Please base your advice on this document."""
 
 PHASES = {
 
