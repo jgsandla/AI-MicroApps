@@ -31,7 +31,7 @@ PHASES = {
 
         },
         "phase_instructions": "Please summarize the courses available to the student ",
-        "user_prompt": "{name}",
+        "user_prompt": "Please provide a short summary of the courses available to me",
         "allow_skip": True,
     },
     "phase2": {
