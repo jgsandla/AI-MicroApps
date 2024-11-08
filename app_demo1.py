@@ -338,6 +338,12 @@ PHASES = {
                 "condition": {"revise_it": {"$eq": "I'm happy"}},
                 "prompt": "I'm happy with my recommendation.  Thank you."
             },
+
+
+          {
+                "condition": {"revise_it": {"$eq": "Revise it"}},
+                "prompt": "The student feels that this information might help you make a better recommendation: {revised_query}.  Please incorporate that information to revise your recommendation. If you are unable to make a better recommendation, let the student know why and appologize for not being able to be of more help."
+            },
           #  {
           #    "condition": {"$and": [
           #          {"more": "No"},
