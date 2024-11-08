@@ -10,10 +10,7 @@ APP_INTRO = """This app demonstrates all the fields that are available to a micr
 SHARED_ASSET = {
 }
 
-HTML_BUTTON = { "url": "https://www.dropbox.com/scl/fi/ixywhox3fjw5691mccbqa/MSE-Courses.pdf?rlkey=dl9i8nszaflubk4f1wmsv3o3d&st=tvdornrw&dl=0",
-    "button_text":"Hi DLL! This is the document that is currently providing the course information to ChatGPT"
 
-}
 
 SYSTEM_PROMPT = """You are helping the user select a class. Based on their goals, backgrounds, and previous course history, make a suggestion as to the next class the user should take.  Be polite and friendly. The list of all available courses is available at https://www.dropbox.com/scl/fi/ixywhox3fjw5691mccbqa/MSE-Courses.pdf?rlkey=dl9i8nszaflubk4f1wmsv3o3d&st=tvdornrw&dl=0 Please base your advice on this document."""
 
@@ -209,15 +206,15 @@ PHASES = {
     "phase1": {
         "name": "Text Input",
         "fields": {
-            "name": {
+            "student_query": {
                 "type": "text_input",
-                "label": """What is your first name?""",
-                "value": "John",
+                "label": """Tell me something about what you're interested in learning about. If you've taken a course in the past and you'd like to know what to take next, please let me know the name of the course""",
+               
             }
 
         },
-        "phase_instructions": "Please summarize the courses available to the student ",
-        "user_prompt": "Please provide a short summary of the courses available to me",
+        "phase_instructions": "Please recommend a course to the student",
+        "user_prompt": "{student_query}",
         "allow_skip": True,
     },
     "phase2": {
