@@ -252,21 +252,24 @@ PHASES = {
                 "type": "radio",
                 "options": ['Yes', 'No'],
                 "label": "Have you taken Calculus?",
-                "showIf": {"more": {"$eq": "Yes"}}
+                "showIf": {"more": {"$eq": "Yes"}},
+                "showIf": {"next_course": {"$eq": "No"}}
             }, 
 
            "Python": {
                 "type": "radio",
                 "options": ['Beginner', 'Intermediate', 'Advanced'],
                 "label": "How would you rank your Python skills?",
-                "showIf": {"more": {"$eq": "Yes"}}
+                "showIf": {"more": {"$eq": "Yes"}},
+                "showIf": {"next_course": {"$eq": "No"}}
             }, 
 
            "Self_study": {
                 "type": "radio",
                 "options": ['Please only recommend courses that are entirely online', 'Self-study works for me, too'],
                 "label": "Some of our courses are entirely online, which allows you to take course assessments online. Others contain self-study materials that you would need to grade yourself.  Are you interested in self-study courses?",
-                "showIf": {"more": {"$eq": "Yes"}}
+                "showIf": {"more": {"$eq": "Yes"}},
+                "showIf": {"next_course": {"$eq": "No"}}
             }, 
          
 
