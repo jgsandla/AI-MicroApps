@@ -223,7 +223,7 @@ PHASES = {
         "fields": {
             "hobbies": {
                 "type": "text_area",
-                "height": 200,
+                "height": "200",
                 "label": """What are your favorite hobbies?""",
                 "value": "Golf, Crossword Puzzles, Fantasy Football",
             }
