@@ -339,6 +339,250 @@ Lecture 14 - Summary
 6.00.1x Format: Online
 
 
+Course title: Mechanics-- Kinematics and Dynamics
+
+Mechanics-- Kinematics and Dynamics Prerequisites: Single-Variable Calculus
+
+Mechanics-- Kinematics and Dynamics  Learning goals: Mechanics is the study of the physics of motion and how it relates to applied forces. It lays the foundation of understanding the world around us through the how and why of motion.
+
+This physics course is the first in a series of modules that covers calculus-based mechanics. This module reviews kinematics (the geometrical description of motion) in the context of one-dimensional, multi-dimensional, and circular motion. It also reviews Newton’s laws of motion and examines their application to a wide variety of cases.
+
+Mechanics-- Kinematics and Dynamics Syllabus:
+Topic 1: Kinematics
+•	Position, distance, speed, velocity, and acceleration in 1D and 2D
+•	Integration and differentiation 
+•	Kinematics problems
+Topic 2: Newton’s Laws
+•	Free body diagrams
+•	Forces: gravity, spring force, tension, friction
+•	Newton’s 3 laws of motion
+•	Dynamics
+Topic 3: Circular Motion
+•	Polar coordinates to describe circular motion
+•	Inward acceleration to maintain circular motion
+Topic 4: Resistive Forces, Constraints, and Massive Ropes
+•	Tension along a massive rope
+•	Differential equations for resistive forces
+•	Pulley and string constraint equations
+Mechanics-- Kinematics and Dynamics  Format: Online course, run annually on MITx Fall-winter asynchronously
+Mechanics-- Kinematics and Dynamics  Depth:  This is a good introductory course for a high school student with some physics background and a strong math/calculus background.
+
+Mechanics-- Kinematics and Dynamics Next recommendation: The next course, Mechanics: Momentum and Energy is a good follow up. 
+
+Course title: Mechanics-- Momentum and Energy
+
+Mechanics-- Momentum and Energy Prerequisites: Single-Variable Calculus, Kinematics and Dynamics
+
+Mechanics-- Momentum and Energy Learning goals: This course is the second of a series of modules that cover calculus-based mechanics.  You will learn about the concepts of momentum, impulse, energy, and work, as well as the powerful idea of conservation laws. You will apply these concepts as powerful techniques to solve interesting mechanics problems such as collisions and rockets.
+
+Mechanics-- Momentum and Energy Syllabus:
+Topic 1: Momentum and Impulse
+•	Definition of momentum
+•	Impulse from force and change in momentum
+Topic 2: Continuous Mass Flow
+•	Rocket problem
+Topic 3: Work, Kinetic Energy, Potential Energy, and Mechanical Energy
+•	Conservative and non-conservative forces
+•	Work calculations
+•	Kinetic energy
+•	Potential energy definition and practical examples
+•	Potential energy diagrams
+•	Mechanical energy
+Topic 4: Collisions
+•	Conservation of momentum in collisions
+•	Elastic versus inelastic collisions
+•	1D and 2D collisions
+
+
+Mechanics-- Momentum and Energy Format: Online course, run annually on MITx Fall-winter asynchronously
+
+
+
+Mechanics-- Momentum and Energy Depth:  This is a good introductory course, especially if you have taken the earlier course in this series: Mechanics: Kinematics and Dynamics
+
+Mechanics-- Momentum and Energy Next recommendation: The next course, Rotational Dynamics, is a good follow up. If you also have multivariable calculus, you may be interested in Electricity and Magnetism or Vibrations and Waves.
+
+
+
+Course title: Mechanics-- Rotational Dynamics
+
+Mechanics-- Rotational Dynamics  Prerequisites: Single-Variable Calculus, Kinematics, Dynamics, Momentum and Energy
+
+Mechanics-- Rotational Dynamics  Learning goals: This is the third of a series of modules that cover calculus-based mechanics. You will explore rotational motion and learn about the concepts of torque and angular momentum. You will learn about the conservation of angular momentum, and use it with other conservation laws to solve complex problems in rotational dynamics.
+
+Mechanics-- Rotational Dynamics  Syllabus:
+Topic 1: Rigid Bodies and Moment of Inertia
+•	Rigid bodies
+•	Moment of inertial calculations and intuition
+•	Rotational velocity and acceleration; rotational kinematics
+Topic 2: Torque
+•	Torque 
+•	Right hand rule for torque direction calculation
+•	Rotational dynamics; torque causes rotational acceleration
+Topic 3: Angular Momentum
+•	Angular momentum
+•	Torque changes angular momentum
+Topic 4: Gyroscopes
+Mechanics-- Rotational Dynamics  Format: Online course, run annually on MITx Fall-winter asynchronously
+Mechanics-- Rotational Dynamics  Depth:  This is a good introductory course, especially if you have taken the earlier courses in this series: Mechanics: Kinematics and Dynamics
+
+Mechanics-- Rotational Dynamics  Next recommendation: The last course, Mechanics: Simple Harmonic Motion and Non-Inertial Reference Frames is a good follow up. If you also have multivariable calculus, you may be interested in Electricity and Magnetism or Vibrations and Waves.
+
+
+
+Course title: Mechanics-- Simple Harmonic Motion and Non-Inertial Reference Frames
+
+Mechanics-- Simple Harmonic Motion and Non-Inertial Reference Frames  Prerequisites: Single-Variable Calculus, Kinematics, Dynamics, Momentum, Energy and Rotational Dynamics
+
+Mechanics-- Simple Harmonic Motion and Non-Inertial Reference Frames  Learning goals: This is the fourth of a series of modules that cover calculus-based mechanics. You will first explore simple harmonic motion (SHM) through springs and pendulums. You will learn to solve the SHM differential equation and to use the Taylor Formula for small oscillations. 
+
+Next, you will learn how to modify Newton’s second law for both linear and rotational non-inertial reference frames. In particular, you will learn about the centrifugal and Coriolis fictitious forces. You will then study applications, such dynamics in the Earth’s atmosphere.
+
+Mechanics-- Simple Harmonic Motion and Non-Inertial Reference Frames  Syllabus:
+Topic 1: Simple Harmonic Motion
+•	Solve for the second order differential equation
+•	Guess solution and solve for initial conditions
+•	Application of Simple Harmonic Motion to various problems
+Topic 2: Non-Inertial Reference Frames
+•	Linear non-inertial terms in acceleration
+•	Circular motion non-inertial fictious forces: Coriolis and centrifugal
+•	Pressure gradient forces
+•	Application of non-inertial fictitious forces to atmospheric physics
+Mechanics-- Simple Harmonic Motion and Non-Inertial Reference Frames  Format: Online course, run annually on MITx Fall-winter asynchronously
+Mechanics-- Simple Harmonic Motion and Non-Inertial Reference Frames  Depth:  This is a good introductory course, especially if you have taken the others in this series: Mechanics: Kinematics and Dynamics, Mechanics: Momentum and Energy, Mechanics: Rotational Dynamics 
+
+Mechanics-- Simple Harmonic Motion and Non-Inertial Reference Frames  Next recommendation: If you also have multivariable calculus, you may be interested in Electricity and Magnetism or Vibrations and Waves.
+
+
+
+Course title: Electricity and Magnetism- Electrostatics
+
+Electricity and Magnetism- Electrostatics Prerequisites: Multi-Variable Calculus, Forces and Dynamics
+
+Electricity and Magnetism- Electrostatics Learning goals: Electricity and Magnetism dominate much of the world around us – from the most fundamental processes in nature to cutting edge electronic devices. Electric and Magnet fields arise from charged particles. Charged particles also feel forces in electric and magnetic fields. Maxwell’s equations, in addition to describing this behavior, also describe electromagnetic radiation. 
+In this course, we focus on Electrostatics. We examine the forces between charges, electric fields, and electric potential, looking at different ways of calculating each. We also look at dipoles and the difference between conductors and insulators. The course ends by explaining capacitors and dielectrics.
+
+Electricity and Magnetism- Electrostatics Syllabus:
+•	Electric Fields
+•	Dipoles
+•	Gauss’s Law
+•	Electric Potential
+•	Conductors, Insulators, and Capacitors 
+
+Electricity and Magnetism- Electrostatics Format: Online course, run annually on MITx winter-spring  asynchronously
+
+Electricity and Magnetism- Electrostatics Depth:  This should only be recommended to students who have a strong mechanics background, some familiarity with electricity and magnetism, and strong multivariable calculus.
+
+Electricity and Magnetism- Electrostatics Next recommendation: The next course, Mechanics: Momentum and Energy is a good follow up. Students may be interested in Vibrations and Waves.
+
+
+
+Course title: Electricity and Magnetism- Magnetic Fields and Forces
+
+Electricity and Magnetism- Magnetic Fields and Forces  Prerequisites: Multi-Variable Calculus, Forces and Dynamics, Torque, Electrostatics,
+
+Electricity and Magnetism- Magnetic Fields and Forces  Learning goals: Electricity and Magnetism dominate much of the world around us – from the most fundamental processes in nature to cutting edge electronic devices. Electric and Magnet fields arise from charged particles. Charged particles also feel forces in electric and magnetic fields. Maxwell’s equations, in addition to describing this behavior, also describe electromagnetic radiation. 
+In this course, we focus on Magnetic fields and forces on charged particles in magnetic fields. We examine different ways of calculating the magnetic field, as well as introducing the ideas of current, resistance and simple DC circuits.
+
+Electricity and Magnetism- Magnetic Fields and Forces  Syllabus:
+•	Simple DC circuits
+•	How charged particles move in magnetic fields
+•	What creates magnetic fields
+•	Calculating magnetic field strength and direction 
+•	Magnetic Dipoles 
+
+Electricity and Magnetism- Magnetic Fields and Forces  Format: Online course, run annually on MITx winter-spring  asynchronously
+
+Electricity and Magnetism- Magnetic Fields and Forces  Depth:  This should only be recommended to students who have a strong mechanics background, some familiarity with electrostatics, and strong multivariable calculus.
+
+Electricity and Magnetism- Magnetic Fields and Forces  Next recommendation: The next course, Electricity and Magnetism: Maxwell’s Equations is a good follow up. Students may also be interested in Vibrations and Waves.
+
+
+
+Course title: Electricity and Magnetism-- Maxwell’s Equations
+
+
+Electricity and Magnetism-- Maxwell’s Equations Prerequisites: Multi-Variable Calculus, Forces and Dynamics, Torque, Electrostatics, magnetostatics
+
+Electricity and Magnetism-- Maxwell’s Equations Learning goals: Electricity and Magnetism dominate much of the world around us – from the most fundamental processes in nature to cutting edge electronic devices. Electric and Magnet fields arise from charged particles. Charged particles also feel forces in electric and magnetic fields. Maxwell’s equations, in addition to describing this behavior, also describe electromagnetic radiation. 
+In this course, we finish up this introduction to Electricity and Magnetism. We begin by thinking about magnetic fields that change in time, working through Faraday’s Law and Inductors in Circuits. With the addition of Displacement Current, we complete Maxwell’s Equations. We finish the course by exploring the solution to Maxwell’s equations in free space – electromagnetic radiation. 
+
+Electricity and Magnetism-- Maxwell’s Equations Syllabus:
+•	Faraday’s Law
+•	Inductors in DC and AC Circuits
+•	Displacement Current
+•	Maxwell’s Equations
+•	Properties of Electromagnetic Radiation
+•	Poynting Vector and Energy flow
+
+Electricity and Magnetism-- Maxwell’s Equations Format: Online course, run annually on MITx winter-spring  asynchronously
+
+Electricity and Magnetism-- Maxwell’s Equations Depth:  This should only be recommended to students who have a strong mechanics background, some familiarity with electricity and magnetism, and strong multivariable calculus.
+
+Electricity and Magnetism-- Maxwell’s Equations Next recommendation: Students may be interested in Vibrations and Waves.
+
+
+
+
+Course title: Quantum Mechanics-- A First Course
+
+Quantum Mechanics-- A First Course  Prerequisites: Multi-Variable Calculus, differential equations, introductory mechanics and electricity and magnetism
+
+Quantum Mechanics-- A First Course  Learning goals: In this quantum physics course you will learn the basics of quantum mechanics.  We begin with de Broglie waves, the wavefunction, and its probability interpretation. We then introduce the Schrodinger equation, inner products, and Hermitian operators.  We also study the time-evolution of wave-packets, Ehrenfest’s theorem, and uncertainty relations. 
+
+Next we return to the Schrodinger equation, solving it for important classes of one-dimensional potentials.  We study the associated energy eigenstates and bound states. The harmonic oscillator is solved using the differential equation as well as algebraically, using creation and annihilation operators.  We discuss barrier penetration and the Ramsauer-Townsend effect.  
+
+Finally, you will learn the basic concepts of scattering – phase-shifts, time delays, Levinson’s theorem, and resonances – in the simple context of one-dimensional problems.  We then turn to the study of angular momentum and the motion of particles in three-dimensional central potentials.  We learn about the radial equation and study the case of the hydrogen atom in detail.
+
+This course is based on MIT 8.04: Quantum Mechanics I. At MIT, 8.04 is the first of a three-course sequence in Quantum Mechanics, a cornerstone in the education of physics majors that prepares them for advanced and specialized studies in any field related to quantum physics.
+
+Quantum Mechanics-- A First Course  Syllabus:
+●	The wavefunction and its probability interpretation. 
+●	Time-evolution of wave-packets. 
+●	Ehrenfest’s theorem and uncertainty relations. 
+●	Solutions of the Schrodinger equation for one-dimensional potentials: the square well and the harmonic oscillator.
+●	Barrier penetration and the Ramsauer-Townsend effect.  
+●	Basics of quantum scattering in one dimension.
+●	Phase-shifts, time delay, Levinson’s theorem, and resonances.
+●	Angular momentum in Quantum Mechanics. 
+●	Three-dimensional central potentials.  
+●	Solution of the hydrogen atom.
+
+Quantum Mechanics-- A First Course  Format: Online course, run every other year on MITx Online instructor paced 
+Quantum Mechanics-- A First Course  Depth:  This should only be recommended to students who have a strong introductory physics and math (including calculus and differential equations) background
+
+Quantum Mechanics-- A First Course  Next recommendation: Students may be interested in Vibrations and Waves if they haven’t taken it. Otherwise, may be interested in next course in quantum mechanics, 8.05x: Mastering Quantum Mechanics
+
+
+
+
+Course title: Mastering Quantum Mechanics
+
+Mastering Quantum Mechanics  Prerequisites: Multi-Variable Calculus, differential equations, introductory mechanics, electricity and magnetism, and a first course in quantum mechanics
+
+Mastering Quantum Mechanics  Learning goals: This course offers a sophisticated view of quantum mechanics and its proper mathematical foundation. Completing the course will give you the tools needed to do research in quantum mechanics and to understand many current developments.
+The first part of the course reviews basic knowledge of quantum mechanics as it gives an in-depth look into linear algebra to establish the mathematical foundation necessary to do quantum mechanics. It discusses in detail spin one-half states and spin operators, orthogonal projectors, Hermitian and unitary operators. It develops the Dirac bra-ket notation.
+The second part covers the uncertainty principle and the concept of compatible operators. This includes the spectral theorem and the concept of a complete set of observables. It continues to develop the Heisenberg and the Schrödinger pictures of quantum mechanics. It discusses the axioms of quantum mechanics. This part also covers the coherent states of the harmonic oscillator, two-state systems and their applications to NMR.
+The third part introduces the concept of tensor product states to discuss entanglement and Bell inequalities. This part also covers angular momentum and the representations of angular momentum. This is used to understand the spectrum of central potentials and to introduce hidden symmetries. It is followed by the subject of addition of angular momentum. This part of the course ends with a look into density matrices and decoherence. 
+This course follows MIT’s on campus 8.05, the second semester of the three-course sequence on undergraduate quantum mechanics, and will be equally rigorous. 8.05 is a signature course in MIT's physics program and a keystone in the education of physics majors.
+Before starting, you will need some basic familiarity with quantum mechanics. You must have seen the Schrodinger equation and studied its solutions for the square well potential, the harmonic oscillator, and the hydrogen atom. You may have learned this by self-study or by taking an introductory one-quarter or one-semester course on the subject. You must be proficient in calculus and have some knowledge of linear algebra.
+Completing the course provides the necessary foundation to pursue advanced study or research at the graduate level in areas related to quantum mechanics.
+
+Mastering Quantum Mechanics Syllabus:
+•  Spin one-half and Spin Operators.
+•  Vector spaces and linear operators.
+•  Dirac’s Bra-ket notation.
+•  Uncertainty Principle and compatible operators.
+•  The Schrodinger and Heisenberg pictures of quantum mechanics. Axioms of quantum mechanics. 
+•  Coherent States. Two state systems and applications to NMR.
+•  Entanglement and Bell’s inequality. Teleportation.  No cloning. 
+•  Angular momentum and central potentials. Addition of angular momentum
+•  Density matrices and decoherence.
+Mastering Quantum Mechanics  Format: Online course, run every other year on MITx Online instructor paced 
+Mastering Quantum Mechanics  Depth:  This should only be recommended to students who have a strong introductory physics and math (including calculus and differential equations) background and a strong background in quantum mechanics
+
+Mastering Quantum Mechanics  Next recommendation: Students may be interested in Vibrations and Waves if they haven’t taken it. Otherwise, may be interested in next course in quantum mechanics, 8.06x
+
 
 
 
