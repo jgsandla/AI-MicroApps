@@ -585,6 +585,216 @@ Mastering Quantum Mechanics  Next recommendation: Students may be interested in 
 
 
 
+Course Title: 7.00x Introduction to Biology – the Secret of Life
+
+
+7.00x Introduction to Biology – the Secret of Life Topics:
+
+Introduction and the Biochemistry of Life
+Biochemistry - Proteins, Enzymes, and Glycolysis
+Genetics - The Work of Mendel and T.H. Morgan
+Human and Biochemical Genetics, Incomplete section
+Molecular Biology - DNA and Replication
+Molecular Biology - Transcription, Translation, and Variations
+Recombinant DNA - Cloning and Analyzing a Gene
+Genomics - Human Genome
+Genomics - Observing and Perturbing the Genome to Probe Function
+Disease and Science and Society
+
+
+Course Title: 7.03.1x Genetics: The Fundamentals
+7.03.1x Genetics: The Fundamentals Recommended prerequisites
+7.00x Introduction to Biology
+
+7.03.1x Genetics: The Fundamentals Topics:
+Unit: Introduction to Genetics
+Learning Sequence: Genetics Overview and Review
+Learning Sequence: Gene Function and Complementation
+Unit: Mendelian Genetics
+Learning Sequence: How Do You Explain a Phenotype?
+Learning Sequence: Mendel's Laws of Inheritance
+Learning Sequence: More Complex Modes of Inheritance
+Unit: Inheritance Patterns and Pedigrees
+Learning Sequence: Inferring Patterns of Inheritance from Pedigrees
+Learning Sequence: Calculating Conditional Probability
+Unit: Recombination and Linkage
+Learning Sequence: Chromosomes, Mitosis, and Meiosis
+Learning Sequence: Mapping Genetic Linkage
+Unit: Tools for Analyzing Linkage
+Learning Sequence: Tetrad Analysis
+Learning Sequence: DNA Markers
+Learning Sequence: Mapping with SNPs 
+Unit: Analyzing Human Mendelian Traits 
+Learning Sequence: Human Mendelian Genetics
+Learning Sequence: LOD Scores from Pedigrees 
+
+7.03.1x Genetics: The Fundamentals Course Goals
+Our goals for this course are for you to: 
+Appreciate the applications of genetics to everyday life.
+Apply terminology appropriately to concepts in genetics. 
+Justify the use of specific techniques and methods for answering different genetic questions.  
+Design genetic crosses to make conclusions about genotypes, modes of inheritance, and linkage.
+Use a quantitative approach to determine different genetic probabilities and calculate genetic distances.
+Interpret genetic relationships and modes of inheritance of a trait given a pedigree.
+
+Course Title: 7.03.2x Genetics: Analysis and Application
+7.03.2x Genetics: Analysis and Application Recommended prerequisites
+7.00x Introduction to Biology and 7.03.1x Genetics: The Fundamentals
+
+7.03.2x Genetics: Analysis and Application Course Goals
+Our goals for this course are for you to: 
+Appreciate the applications of genetics to everyday life.
+Apply terminology appropriately to concepts in genetics. 
+Justify the use of specific techniques and methods for answering different genetic questions.
+Analyze the location and type of mutation or chromosomal change.
+Find or create mutants of interest.
+Explain the impact of genetics on development and behavior.
+
+
+Course Title: 7.03.3x Genetics: Population Genetics and Human Traits
+
+7.03.3x Genetics: Population Genetics and Human Traits Recommended prerequisites
+7.00x Introduction to Biology and 7.03.1x Genetics: The Fundamentals and 7.03.2x Genetics: Analysis and Application
+
+7.03.3x Genetics: Population Genetics and Human Traits Course Goals:
+Our goals for this course are for you to: 
+Appreciate the applications of genetics to everyday life.
+Apply terminology appropriately to concepts in genetics.
+Justify the use of specific sequencing methods for answering genetic questions.
+How to interpret the patterns and driving forces of genetic variation within and between human populations.
+Analyze results from genome-wide association studies.
+Use a quantitative approach to determine genetic features of different populations.
+Explain the impact of genetic tools on human society.
+
+
+Course Title: 7.05x Biochemistry: Biomolecules, Methods, and Mechanisms
+
+7.05x Biochemistry: Biomolecules, Methods, and Mechanisms Recommended prerequisites
+7.05 Biochemistry, Pathways and Metabolism
+
+Course Title: 7.06.1x Cell Biology: Transport and Signaling
+
+7.06.1x Cell Biology: Transport and Signaling Recommended prerequisites
+7.00x Introduction to Biology and 7.03.1x Genetics: The Fundamentals and 7.03.2x Genetics: Analysis and Application and 7.03.3x: Genetics: Population Genetics and Human Traits and 7.05x: Biochemistry: Biomolecules, Methods, and Mechanisms
+
+7.06.1x Cell Biology: Transport and Signaling Topics:
+Unit: Membranes, Lipids, and Proteins 
+Learning Sequence: Components of Biological Membranes 
+Learning Sequence: Lipid Heterogeneity and Asymmetry 
+Learning Sequence: Protein Asymmetry and Prediction
+Unit: Intracellular Transport and Protein Secretion 
+Learning Sequence: Mechanisms of Transport
+Learning Sequence: Transport to Cellular Compartments
+Learning Sequence: Endocytosis and Exocytosis
+Unit: Nuclear-Cytoplasmic Transport 
+Learning Sequence: The Nuclear Pore
+Learning Sequence: Molecular Mechanisms of Nuclear Transport
+Learning Sequence: Quantifying and Regulating Nuclear Transport
+Unit: Principles of Signal Transduction 
+Learning Sequence: Signaling Themes
+Learning Sequence: Receptor-Ligand Interactions and G Proteins
+Learning Sequence: Monitoring Signaling
+Unit: Signaling Pathways and Regulatory Paradigms 
+Learning Sequence: Examples of Signaling Pathways
+Learning Sequence: Regulation of Signaling: Phosphorylation
+Learning Sequence: Regulation of Signaling: Proteolysis
+
+
+7.06.1x Cell Biology: Transport and Signaling Course Goals: 
+Our goals for this course are for you to: 
+Appreciate biochemical and genetic approaches to address fundamental questions in cell biology.
+Evaluate how scientists draw conclusions and develop models about cell biology from experimental approaches and results.
+Understand how to select specific empirical methods and techniques based on the different kinds of questions scientists ask.
+Design experiments to answer cell biology experiments with proper controls.
+Assess biological necessity and sufficiency from experimental results.
+Compare and contrast protein transport processes.
+Compare and contrast signaling pathway mechanisms and regulation. 
+Identify recurring themes in protein transport and signal transduction.
+
+Course Title: 7.06.2x Cell Biology: The Cytoskeleton and Cell Cycle
+
+7.06.2x Cell Biology: The Cytoskeleton and Cell Cycle Recommended prerequisites
+7.00x Introduction to Biology and 7.03.1x Genetics: The Fundamentals and 7.03.2x Genetics: Analysis and Application and 7.03.3x: Genetics: Population Genetics and Human Traits and 7.05x: Biochemistry: Biomolecules, Methods, and Mechanisms and 7.06.1x Cell Biology: Transport and Signaling
+
+7.06.2x Cell Biology: The Cytoskeleton and Cell Cycle Topics:
+Unit: Microscopy
+Learning Sequence: Microscopy and Cell Biology
+Learning Sequence: Fluorescence Microscopy
+Unit: The Actin Cytoskeleton 
+Learning Sequence: Actin and the Cytoskeleton
+Learning Sequence: Regulation of Actin
+Unit: The Microtubule Cytoskeleton 
+Learning Sequence: Tubulin and the Microtubule Cytoskeleton
+Learning Sequence: Control of the Microtubule Cytoskeleton in Cells
+Unit: Force Generation and Movement 
+Learning Sequence: Measuring Movement: Overview and TIRF
+Learning Sequence: Measuring Movement: Assays
+Learning Sequence: Force Generation
+Unit: Cell Division
+Learning Sequence: Replication
+Learning Sequence: Pairing and Condensation
+Learning Sequence: Segregation
+Learning Sequence: Cytokinesis and Meiosis
+Unit: Cell Cycle Regulation 
+Learning Sequence: Approaches to Cell Cycle Regulation
+Learning Sequence: Cyclins and Cyclin-Dependent Kinases
+Learning Sequence: Checkpoints
+
+7.06.2x Cell Biology: The Cytoskeleton and Cell Cycle Course Goals:
+Our goals for this course are for you to: 
+Appreciate biochemical and genetic approaches for addressing fundamental questions regarding the regulation of cell structure and division.
+Evaluate how scientists draw conclusions (the 'facts’) about cell biology from experimental approaches and results.
+Assess biological necessity and sufficiency from experimental results.
+Understand why specific empirical methods and techniques are appropriate for different kinds of questions.
+Design experiments with proper controls.
+Interpret microscopy images.
+Compare and contrast the roles of actin and microtubule cytoskeletal elements.
+Identify recurring themes in maintaining cellular architecture throughout the cell cycle.
+
+Course Title: 7.06.3x Cell Biology: Cell-Cell Interactions
+7.06.3x Cell Biology: Cell-Cell Interactions Recommended prerequisites
+7.00x Introduction to Biology and 7.03.1x Genetics: The Fundamentals and 7.03.2x Genetics: Analysis and Application and 7.03.3x: Genetics: Population Genetics and Human Traits and 7.05x: Biochemistry: Biomolecules, Methods, and Mechanisms and 7.06.1x Cell Biology: Transport and Signaling and 7.06.2x Cell Biology: The Cytoskeleton and Cell Cycle
+
+7.06.3x Cell Biology: Cell-Cell Interactions Topics:
+Unit: Cell Adhesion and Polarity
+Learning Sequence: Introduction to Cell-Cell Interactions
+Learning Sequence: Cadherins
+Learning Sequence: Mechanotransduction
+Learning Sequence: Tight Junctions
+Learning Sequence: Cell-Matrix Junctions
+Unit: Morphogenesis, Stem Cells, and Regeneration 
+Learning Sequence: Morphological Specialization and Building Complexity
+Learning Sequence: Signaling Pathways in Morphogenesis
+Learning Sequence: The Regenerative Capacity of Stem Cells
+Learning Sequence: Intestinal Stem Cells as a Case Study
+Unit: Cell Death and Autophagy 
+Learning Sequence: Introduction to Apoptosis
+Learning Sequence: Ways to Study Apoptosis
+Learning Sequence: Mechanisms and Pathways of Apoptosis
+Learning Sequence: Autophagy
+Unit: Host-Pathogen Interactions 
+Learning Sequence: Introduction to Pathogens
+Learning Sequence: Salmonella typhimurium Pathogenesis
+Learning Sequence: Listeria monocytogenes Pathogenesis
+Unit: Cell Biology of Immune Systems
+Learning Sequence: Components of Immune Responses
+Learning Sequence: Antigen Presentation
+Learning Sequence: T-Cell Activation, Organization, and Function
+Unit: Cancer and Metastasis 
+Learning Sequence: Cancer in the Context of Multicellularity
+Learning Sequence: Cancer Microevolution
+Learning Sequence: Cancer Metastasis
+
+7.06.3x Cell Biology: Cell-Cell Interactions Course Goals:
+Our goals for this course are for you to: 
+How to apply biochemical and genetic approaches to address fundamental questions regarding regulation of cellular functions and interactions.
+How to evaluate the conclusions and models that scientists develop about cell biology from experimental approaches and results.
+How to select specific empirical methods and techniques based on the different types of questions scientists ask.
+How to design experiments to answer cell biology experiments with proper controls.
+How to compare and contrast the properties of different cell types.
+How to identify recurring themes in cell biology impacting human health.
+
+
 
 
 
