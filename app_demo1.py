@@ -1031,7 +1031,7 @@ PHASES = {
          
 
         },
-        "phase_instructions": "Please recommend a course to the student. Please recommend only one course. If the student indicated that they are interested in online-only courses, please do not recommend courses where the Format includes self-study. If a course is indicated to be of challenging difficulty, lead by asking if they're looking for a challenge, or saying something that lets them know that the course is challenging. You may ask leading questions, but please don't ask any questions that require an answer. ",
+        "phase_instructions": "Please recommend a course to the student. Please recommend only one course. If the student indicated that they are interested in online-only courses, please do not recommend courses where the Format includes self-study. If a course is indicated to be of challenging difficulty, lead by asking if they're looking for a challenge, or saying something that lets them know that the course is challenging. You may ask leading questions, but please don't ask any questions that require an answer. If the student provides information about their educaitonal background to you, please take it into account when making recommendations.  For example, try to avoid recommending courses with lots of prerequisites to high school students.   ",
         "user_prompt": [
 
 
