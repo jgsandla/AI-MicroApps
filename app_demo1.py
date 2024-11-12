@@ -672,6 +672,42 @@ Course Title: 7.05x Biochemistry: Biomolecules, Methods, and Mechanisms
 7.05x Biochemistry: Biomolecules, Methods, and Mechanisms Recommended prerequisites
 7.05 Biochemistry, Pathways and Metabolism
 
+7.05x Biochemistry: Biomolecules, Methods, and Mechanisms Topics: 
+
+Unit: Buffers and Amino Acids
+Learning Sequence: Introduction to Biochemistry; pH and Buffers
+Learning Sequence: Amino Acids and Proteins
+Unit: Protein Purification
+Learning Sequence: Protein Purification
+Unit: Protein Structure and Folding
+Learning Sequence: Protein Structure 
+Learning Sequence: Protein Folding
+Unit: Hemoglobin
+Learning Sequence: Hemoglobin and Allostery
+Learning Sequence: Hemoglobin and the Bohr Effect
+Unit: Enzymes Part I
+Learning Sequence: Enzyme Chemistry
+Learning Sequence: Enzymes as Catalysts
+Unit: Enzymes Part II
+Learning Sequence: Enzyme Kinetics
+Learning Sequence: Membranes and Blood Clotting
+Unit: Membranes, Blood Clotting, Channels, Transporters, and Pumps
+Learning Sequence: Channels, Transporters, and Pumps
+Unit: Signal Transduction
+Learning Sequence: Signal Transduction
+
+7.05x Biochemistry: Biomolecules, Methods, and Mechanisms Course Goals: 
+
+Our goals for this course are for you to learn how: 
+Apply the scientific method to pursue research questions.
+Analyze protein purification schemes.
+Scientists determine the structure of a protein.
+Structure, allostery, and the Bohr effect influence hemoglobin function.
+To interpret graphs, plot behaviors, and calculate constants related to enzyme function.
+Pumps, transporters, and channels differ to regulate molecule transfer across membranes.
+G proteins play a key role in signaling.
+
+
 Course Title: 7.06.1x Cell Biology: Transport and Signaling
 
 7.06.1x Cell Biology: Transport and Signaling Recommended prerequisites
@@ -795,6 +831,111 @@ How to compare and contrast the properties of different cell types.
 How to identify recurring themes in cell biology impacting human health.
 
 
+Course Title: 7.28.1x Molecular Biology: DNA Replication & Repair
+
+7.28.1x Molecular Biology: DNA Replication & Repair Recommended prerequisites:
+7.00x Introduction to Biology and 7.03.1x Genetics: The Fundamentals and 7.03.2x Genetics: Analysis and Application and 7.03.3x: Genetics: Population Genetics and Human Traits and 7.05x: Biochemistry: Biomolecules, Methods, and Mechanisms
+
+
+7.28.1x Molecular Biology: DNA Replication & Repair Topics:
+Unit: DNA Replication: DNA Polymerase
+Learning Sequence: DNA Polymerase 
+Learning Sequence: Measuring DNA Polymerase Activity
+Unit: DNA Replication: The Other Players,
+Learning Sequence: The Replication Fork, Helicase, and Single-Stranded Binding Protein
+Learning Sequence: Topoisomerase, Okazaki Fragment Repair, and the Trombone Model
+Unit: DNA Replication and the DNA
+Learning Sequence: Origins of Replication 
+Learning Sequence: Identifying Origins
+Unit: DNA Replication: Discovery and More Assays
+Learning Sequence: Discovering Replication Genes 
+Learning Sequence: EMSA, Footprinting, Unwinding, and Template Association Assays
+Unit: DNA Replication: Initiation
+Learning Sequence: Replication Initiation and Telomeres
+Learning Sequence: Chromatin, Histones, and Nucleosomes
+Unit: Mismatch Repair
+Learning Sequence: Mismatch Repair
+Learning Sequence: Measuring Mismatch Repair
+Unit: DNA Damage, DNA Repair, and DNA Damage Tolerance
+Learning Sequence: DNA Damage 
+Learning Sequence: DNA Damage Repair and Tolerance Pathways
+Unit: Double-Stranded Break Repair
+Learning Sequence: Double-Stranded Breaks and NHEJ 
+Learning Sequence: Homologous Recombination
+
+7.28.1x Molecular Biology: DNA Replication & Repair Course Goals
+Our goals for this course are for you to: 
+Compare and contrast the mechanisms of DNA replication in prokaryotes and eukaryotes
+Describe several enzymatic mechanisms that the cell uses to repair or tolerate DNA damage
+Analyze protein structures to infer functional information
+Design methods for the best experiment to test a hypothesis related to DNA replication or repair proteins
+Interpret data from DNA replication and repair experiments
+
+Course Title: 7.28.2x Molecular Biology: Transcription & Transposition
+
+7.28.2x Molecular Biology: Transcription & Transposition Recommended prerequisites
+7.00x Introduction to Biology and 7.03.1x Genetics: The Fundamentals and 7.03.2x Genetics: Analysis and Application and 7.03.3x: Genetics: Population Genetics and Human Traits and 7.05x: Biochemistry: Biomolecules, Methods, and Mechanisms and 7.28.1x Molecular Biology: DNA Replication & Repair
+
+7.28.2x Molecular Biology: Transcription & Transposition Topics:
+Machinery and Promoters of Bacterial Transcription
+Bacterial Regulation of Bacterial Transcription
+Machinery and Promoters of Eukaryotic Transcription
+Regulation of Eukaryotic Transcription I
+Regulation of Eukaryotic Transcription II
+Transposition
+CRISPR
+
+7.28.2x Molecular Biology: Transcription & Transposition Course Goals:
+Our goals for this course are for you to: 
+Compare and contrast transcription in prokaryotes and eukaryotes
+Describe several mechanisms of transposition
+Analyze protein structures to infer functional information
+Design the best experiment to test a hypothesis
+Interpret data from transcription and transposition experiments
+
+Course Title: 7.28.3x Molecular Biology: RNA Processing & Translation
+
+7.28.3x Molecular Biology: RNA Processing & Translation Recommended prerequisites:
+7.00x Introduction to Biology and 7.03.1x Genetics: The Fundamentals and 7.03.2x Genetics: Analysis and Application and 7.03.3x: Genetics: Population Genetics and Human Traits and 7.05x: Biochemistry: Biomolecules, Methods, and Mechanisms and 7.28.1x Molecular Biology: DNA Replication & Repair and 7.28.2x Molecular Biology: Transcription & Transposition
+
+7.28.3x Molecular Biology: RNA Processing & Translation Topics:
+Translation I – Overview and Key Players
+Translation II – Elongation
+Translation III – Initiation and Termination
+Translation IV – Regulation of Translation
+RNA Splicing I – Mechanisms
+RNA Splicing II – Proofreading and Alternative Splicing
+RNA Turnover I – Assays and General Mechanisms
+RNA Turnover II – Specific Bacterial and Eukaryotic Mechanisms
+
+7.28.3x Molecular Biology: RNA Processing & Translation Course Goals:
+Our goals for this course are for you to: 
+Compare and contrast translation in bacteria and eukaryotes
+Describe several mechanisms of RNA turnover and RNA splicing
+Analyze protein structures to infer functional information
+Design the best experiment to test a hypothesis
+Interpret data from translation and RNA processing experiments
+
+Course Title: 7.QBWx Quantitative Biology Workshop
+
+7.QBWx Quantitative Biology Workshop Topics:
+Learning Sequence: MATLAB Introduction
+Learning Sequence: Fitting Biochemical Data: Equilibrium and Kinetics
+Learning Sequence: Molecular Modeling with PyMOL
+Learning Sequence: Visual Neuroscience with MATLAB
+Learning Sequence: Neuroscience Using Machine Learning Concepts
+Learning Sequence: Genomics Data Analysis Using Python
+Learning Sequence: Gene Expression Application Using Python
+Learning Sequence: Statistical Data Analysis Using R
+Learning Sequence: Analyzing Single-Cell Gene Expression Using Multiple Methods
+
+7.QBWx Quantitative Biology Workshop: Course Goals
+Our goals for this course are for you to: 
+Apply quantitative methods to biological problems
+Define computational vocabulary
+Write Python, MATLAB, and R code to analyze biological data
+Examine any protein structure in PyMOL
+Analyze how to answer a scientific question through a step-by-step thought process.
 
 
 
