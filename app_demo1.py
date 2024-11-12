@@ -22,9 +22,9 @@ SYSTEM_PROMPT = """Here is the course information that you will need to base you
 
 Course title: Thermodynamics of Materials
 
-Prerequisites: Chemistry, Calculus
+Thermodynamics of Materials Prerequisites: Chemistry, Calculus
 
-Learning goals: Thermodynamics of Materials is an online course that introduces you to the laws of thermodynamics and the concepts of equilibrium and thermodynamic potentials, and teaches you how to apply these ideas to solve materials science and engineering problems. Learn how to use materials data, computational techniques, and thermodynamics software for materials selection, process design, predictions, and more.  With an emphasis on classical thermodynamics, this course will teach you both classical and statistical interpretations of entropy, as well as the concept of constrained equilibrium, the mathematical structure of classical thermodynamics, and free energy-composition diagrams that underpin binary phase diagrams.
+Thermodynamics of Materials Learning goals: Thermodynamics of Materials is an online course that introduces you to the laws of thermodynamics and the concepts of equilibrium and thermodynamic potentials, and teaches you how to apply these ideas to solve materials science and engineering problems. Learn how to use materials data, computational techniques, and thermodynamics software for materials selection, process design, predictions, and more.  With an emphasis on classical thermodynamics, this course will teach you both classical and statistical interpretations of entropy, as well as the concept of constrained equilibrium, the mathematical structure of classical thermodynamics, and free energy-composition diagrams that underpin binary phase diagrams.
 Syllabus:
 Topic 1: Equilibrium
 •	Introduction to thermodynamics: enthalpy, entropy, and an atomic view
@@ -50,54 +50,57 @@ Topic 3: Foundations
 •	Clausius’ statement and the Carnot efficiency limit
 •	Reversible and irreversible heat engines
 •	Introduction to statistical thermodynamics
-Format: Online course
-Depth:  This is not a good course to begin with.  It is best recommended to students studying engineering at university or to students who have expressed direct interest in the topics covered in this course. If another course could meet the student's needs, consider recommending that one instead.
-Difficulty: This is a challenging course
+Thermodynamics of Materials Format: Online course
+Thermodynamics of Materials Depth:  This is not a good course to begin with.  It is best recommended to students studying engineering at university or to students who have expressed direct interest in the topics covered in this course. If another course could meet the student's needs, consider recommending that one instead.
+Thermodynamics of Materials Difficulty: This is a challenging course
 
 
 Course Title: Electronic, Optical and Magnetic Properties of Materials
-Prerequisites: Calculus, Physics Electricity and Magnetism, Chemistry
+Electronic, Optical and Magnetic Properties of Materials Prerequisites: Calculus, Physics Electricity and Magnetism, Chemistry
 
-Learning Goals: This course from MIT’s Department of Materials Science and Engineering introduces the fundamental principles of quantum mechanics, solid state physics, and electricity and magnetism. We use these principles to describe the origins of the electronic, optical, and magnetic properties of materials, and we discuss how these properties can be engineered to suit particular applications, including diodes, optical fibers, LEDs, and solar cells.
+Electronic, Optical and Magnetic Properties of Materials Learning Goals: This course from MIT’s Department of Materials Science and Engineering introduces the fundamental principles of quantum mechanics, solid state physics, and electricity and magnetism. We use these principles to describe the origins of the electronic, optical, and magnetic properties of materials, and we discuss how these properties can be engineered to suit particular applications, including diodes, optical fibers, LEDs, and solar cells.
 
 In this course, you will find out how the speed of sound is connected to the electronic band gap, what the difference is between a metal and a semiconductor, and how many magnetic domains fit in a nanoparticle. You will explore a wide range of topics in the domains of materials engineering, quantum mechanics, solid state physics that are essential for any engineer or scientist who wants to gain a fuller understanding of the principles underlying modern electronics.
 
-Syllabus:  We don’t have a syllabus for this course
+Electronic, Optical and Magnetic Properties of Materials Syllabus:  We don’t have a syllabus for this course
 
-Format: Online course
+Electronic, Optical and Magnetic Properties of Materials Format: Online course
 
 
-Difficulty: This is a challenging course
+Electronic, Optical and Magnetic Properties of Materials Difficulty: This is a challenging course
 
 Course Title: Cellular Solids
 
-Prerequisites:  Mechanical Behavior of Materials or similar
+Cellular Solids Prerequisites:  Mechanical Behavior of Materials or similar
 
-Learning Goals: In this engineering course, we will explore the processing and structure of cellular solids as they are created from polymers, metals, ceramics, glasses and composites.
+Cellular Solids Learning Goals: In this engineering course, we will explore the processing and structure of cellular solids as they are created from polymers, metals, ceramics, glasses and composites.
 
 We will begin the course by deriving models for the mechanical properties of honeycombs and foams, and we will discover how the unique properties of these materials can be exploited in applications such as lightweight structural panels, energy absorption devices, and thermal insulation.
 Next, we will explore cellular solids in medicine, including trabecular bone mechanics, the increased risk of bone fracture due to trabecular bone loss in patients with osteoporosis, the development of metal foam coatings for orthopedic implants, applying foam models to tissue engineering scaffolds and the design of a porous scaffold for tissue engineering that mimics the body's own extracellular matrix.
 Finally, we will explore sandwich structures and cellular solids that occur in nature, and we will consider examples of engineering design inspired by natural materials.
-Syllabus: Not available
+
+Cellular Solids Syllabus: Not available
+
+Cellular Solids Format: Online course
 
 Course Title: Mechanical Behavior of Materials
 
-Prerequisites: Classical mechanics, Chemistry, Calculus
+Mechanical Behavior of Materials Prerequisites: Classical mechanics, Chemistry, Calculus
 
-Learning Goals: The 3.032x series provides an introduction to the mechanical behavior of materials, from both the continuum and atomistic points of view. At the continuum level, we learn how forces and displacements translate into stress and strain distributions within the material. At the atomistic level, we learn the mechanisms that control the mechanical properties of materials. Examples are drawn from metals, ceramics, glasses, polymers, biomaterials, composites and cellular materials.
+Mechanical Behavior of Materials Learning Goals: The 3.032x series provides an introduction to the mechanical behavior of materials, from both the continuum and atomistic points of view. At the continuum level, we learn how forces and displacements translate into stress and strain distributions within the material. At the atomistic level, we learn the mechanisms that control the mechanical properties of materials. Examples are drawn from metals, ceramics, glasses, polymers, biomaterials, composites and cellular materials.
 Part 1 covers stress-strain behavior, topics in linear elasticity and the atomic basis for linear elasticity, and composite materials.
 Part 2 covers stress transformations, beam bending, column buckling, and cellular materials.
 Part 3 covers viscoelasticity (behavior intermediate to that of an elastic solid and that of a viscous fluid), plasticity (permanent deformation), creep in crystalline materials (time dependent behavior), brittle fracture (rapid crack propagation) and fatigue (failure due to repeated loading of a material).
 Syllabus: Not available
 
-Format: Online course
+Mechanical Behavior of Materials Format: Online course
 
 
 Course Title: Microstructural Evolution of Materials
 
-Prerequisites: Calculus, Structure of Materials, Thermodynamics
+Microstructural Evolution of Materials Prerequisites: Calculus, Structure of Materials, Thermodynamics
 
-Learning Goals: A four-part series of online modules, Microstructural Evolution of Materials introduces various phenomena in various classes of materials. In this course, you will learn how materials develop different microstructures based on the processing technique used, and how these microstructures relate to the properties of the material.
+Microstructural Evolution of Materials Learning Goals: A four-part series of online modules, Microstructural Evolution of Materials introduces various phenomena in various classes of materials. In this course, you will learn how materials develop different microstructures based on the processing technique used, and how these microstructures relate to the properties of the material.
 
 Covering similar content to the MIT course 3.022: Microstructural Evolution of Materials, this online version is intended for undergraduate engineering and science students, as well as professionals, who are interested in materials statistics, kinetics, and microstructural transformations.
 
@@ -109,66 +112,75 @@ This third module discusses surfaces and surface-driven reactions. Topics includ
 
 This fourth module focuses on phase transformations, including nucleation and growth, precipitate growth, interface stability, and glass transition.
 
-Syllabus: Not available
+Microstructural Evolution of Materials Syllabus: Not available
 
-Format: Online course
+Microstructural Evolution of Materials Format: Online course
 
-Depth:  This is not a good course to begin with.  It is best recommended to students studying engineering at university or to students who have expressed direct interest in the topics covered in this course, or to students who have completed Thermodynamics and are looking for a next course. If another course could meet the student's needs, consider recommending that one instead.
+Microstructural Evolution of Materials Depth:  This is not a good course to begin with.  It is best recommended to students studying engineering at university or to students who have expressed direct interest in the topics covered in this course, or to students who have completed Thermodynamics and are looking for a next course. If another course could meet the student's needs, consider recommending that one instead.
 
-Difficulty: This is a challenging course
+Microstructural Evolution of Materials Difficulty: This is a challenging course
 
 
 Course Title: Organic and Biomaterials Chemistry, Part 1
 
-Prerequisites: Chemistry, Calculus
+Organic and Biomaterials Chemistry, Part 1 Prerequisites: Chemistry, Calculus
 
 Learning Goals: Organic and Biomaterials Chemistry is a self-paced online course that focuses on the chemistry and chemical structure-property relationships of soft synthetic and biologically derived materials.
 Developed for engineers, scientists, and university-level STEM students interested in learning more about polymer, biomaterials, and organic chemistry from a materials science and engineering perspective, this course aims to help you develop a fundamental understanding of the molecular nature of materials.
 This module is the first in a series of three modules based on the MIT course 3.034: Organic and Materials Chemistry. Part 1 of the course, An Introduction to Polymer Chemistry, will focus on methods for preparing synthetic polymers by step- and chain-growth polymerization, polymerization kinetics, and practical considerations of running a polymerization reaction.
-Syllabus:  Not available
 
-Format: Online course
+Organic and Biomaterials Chemistry, Part 1 Syllabus:  Not available
+
+Organic and Biomaterials Chemistry, Part 1 Format: Online course
 
 
 Course Title: Structure of Materials
 
-Prerequisites: Chemistry, Calculus
+Structure of Materials Prerequisites: Chemistry, Calculus
 
-Learning Goals: Structure determines so much about a material: its properties, its potential applications, and its performance within those applications. This course from MIT’s Department of Materials Science and Engineering explores the structure of a wide variety of materials with current-day engineering applications.
+Structure of Materials Learning Goals: Structure determines so much about a material: its properties, its potential applications, and its performance within those applications. This course from MIT’s Department of Materials Science and Engineering explores the structure of a wide variety of materials with current-day engineering applications.
 The course begins with an introduction to amorphous materials. We explore glasses and polymers, learn about the factors that influence their structure, and learn how materials scientists measure and describe the structure of these materials.
 Then we begin a discussion of the crystalline state, exploring what it means for a material to be crystalline, how we describe directions in a crystal, and how we can determine the structure of crystal through x-ray diffraction. We explore the underlying crystalline structures that underpin so many of the materials that surround us. Finally, we look at how tensors can be used to represent the properties of three-dimensional materials, and we consider how symmetry places constraints on the properties of materials.
 We move on to an exploration of quasi-, plastic, and liquid crystals. Then, we learn about the point defects that are present in all crystals, and we will learn how the presence of these defects lead to diffusion in materials. Next, we will explore dislocations in materials. We will introduce the descriptors that we use to describe dislocations, we will learn about dislocation motion, and will consider how dislocations dramatically affect the strength of materials. Finally, we will explore how defects can be used to strengthen materials, and we will learn about the properties of higher-order defects such as stacking faults and grain boundaries.
-Syllabus: Not available
 
-Format: Online course
+Structure of Materials Syllabus: Not available
+
+Structure of Materials Format: Online course
 
 
 Course Title: The Iterative Innovation Process
 
-Prerequisites: none
+The Iterative Innovation Process Prerequisites: none
 
-Learning goals: People innovate, not organizations. This course is for anybody who wants to understand the innovation process - whether you want to foster innovation within your organization or whether you want to personally innovate.
+The Iterative Innovation Process Learning goals: People innovate, not organizations. This course is for anybody who wants to understand the innovation process - whether you want to foster innovation within your organization or whether you want to personally innovate.
 As practicing innovators, we teach you the fundamentals of how to think like an innovator. Innovation is an iterative process, not a linear one. When innovating, there are thousands of sources of uncertainty in Technology, Implementation, and Markets. We teach you how to cycle through these sources of uncertainty until the right pieces come together in an innovation.
 Throughout the course, we build up the innovation process model step by step with real examples and exercises. The goal of this course is to change and refine the way you view the innovation process, providing you with the foundation on which to build your future innovation
-Syllabus: Not available
-Format: Online course
+
+The Iterative Innovation Process Syllabus: Not available
+
+The Iterative Innovation Process Format: Online course
 
 Structural Materials: Selection and Economics
-Prerequisites: none
-Learning goals: From skyscrapers to transportation infrastructure, structural materials dominate the human landscape. Learning the principles that govern their selection is essential for any aspiring or practicing engineer.
+
+Structural Materials: Selection and Economics Prerequisites: none
+
+Structural Materials: Selection and Economics Learning goals: From skyscrapers to transportation infrastructure, structural materials dominate the human landscape. Learning the principles that govern their selection is essential for any aspiring or practicing engineer.
 This engineering course will introduce you to the key principles of structural materials selection through a practical curriculum rooted in the real world. The principles taught are general enough to be applied across many domains. Key points are emphasized with interesting examples and anecdotes from industry and academia.
 This course benefits aspiring engineers and students with no previous experience as well as the seasoned professional.
-Syllabus: Lecture 1: Introduction to externalities of materials selection, comprising social, political, economic, military, cultural, environmental and other effects.
+
+Structural Materials: Selection and Economics Syllabus: Lecture 1: Introduction to externalities of materials selection, comprising social, political, economic, military, cultural, environmental and other effects.
 Lecture 2: Introduction to relationship between material cost, abundance and usage. Factors influencing availability such as energy density and recyclability are also discussed.
 Lecture 3: Introduction to the properties of materials that influence use in structural applications. Discussion of ratio analysis using among other examples steel, aluminum, and titanium.
 Lecture 4: Discusses manufacturing and processing factors that effect material choice in various applications. Introduction to causes of material failures.
 
-Format: Online course
+Structural Materials: Selection and Economics Format: Online course
 
 
 Course Title: Solid State Chemistry
-Prerequisites: none
-Learning goals: Introduction to Solid State Chemistry is a one-semester college course on the principles of chemistry. This unique and popular course satisfies MIT’s general chemistry degree requirement, with an emphasis on solid-state materials and their application to engineering systems. You’ll begin with an exploration of the fundamental relationship between electronic structure, chemical bonding, and atomic order, then proceed to the chemical properties of “aggregates of molecules,” including crystals, metals, glasses, semiconductors, solutions and acid-base equilibria, polymers, and biomaterials. Real-world examples are drawn from industrial practice (e.g. semiconductor manufacturing), energy generation and storage (e.g. automobile engines, lithium batteries), emerging technologies (e.g. photonic and biomedical devices), and the environmental impact of chemical processing (e.g. recycling glass, metal, and plastic).
+
+Solid State Chemistry Prerequisites: none
+
+Solid State Chemistry Learning goals: Introduction to Solid State Chemistry is a one-semester college course on the principles of chemistry. This unique and popular course satisfies MIT’s general chemistry degree requirement, with an emphasis on solid-state materials and their application to engineering systems. You’ll begin with an exploration of the fundamental relationship between electronic structure, chemical bonding, and atomic order, then proceed to the chemical properties of “aggregates of molecules,” including crystals, metals, glasses, semiconductors, solutions and acid-base equilibria, polymers, and biomaterials. Real-world examples are drawn from industrial practice (e.g. semiconductor manufacturing), energy generation and storage (e.g. automobile engines, lithium batteries), emerging technologies (e.g. photonic and biomedical devices), and the environmental impact of chemical processing (e.g. recycling glass, metal, and plastic).
 •	Syllabus:  Foundations 
 o	Structure of the Atom - The periodic table, elements and compounds, chemical formulas. Evolution of atomic theory: Thomson & Rutherford, Bohr model of hydrogen, Bohr-Sommerfeld model and multi-electron atoms, atomic spectra, Schrödinger equation. Electron orbitals: Aufbau principle, Pauli exclusion principle, and Hund’s rules.
 	Sessions 1, 2, 3, 4, 5, 6, 7
@@ -189,19 +201,27 @@ o	Organic Materials - Organic compounds: nomenclature, alkanes, alkenes, alkynes
 	Sessions 27, 28, 29, 30, 31, 32
 o	Solid Solutions - Phase stability: unary and binary phase diagrams.
 	Sessions 33, 34, 35
-Format: Do not recommend this course to students looking for online-only courses
+
+Solid State Chemistry Format: Do not recommend this course to students looking for online-only courses. This course contains self-study materials
 
 Course Title: Symmetry, Structure, and Tensor Properties of Materials
-Prerequisites: Linear Algebra
-Learning Goals: This course covers the derivation of symmetry theory; lattices, point groups, space groups, and their properties; use of symmetry in tensor representation of crystal properties, including anisotropy and representation surfaces; and applications to piezoelectricity and elasticity.
-Format: Do not recommend this course to students looking for online-only courses
+
+Symmetry, Structure, and Tensor Properties of Materials Prerequisites: Linear Algebra
+
+Symmetry, Structure, and Tensor Properties of Materials Learning Goals: This course covers the derivation of symmetry theory; lattices, point groups, space groups, and their properties; use of symmetry in tensor representation of crystal properties, including anisotropy and representation surfaces; and applications to piezoelectricity and elasticity.
+
+Symmetry, Structure, and Tensor Properties of Materials Format: Do not recommend this course to students looking for online-only courses. This course contains self-study materials
 
 Course Title: Elecronic, Optical, and Magnetic Materials and Devices
-Prerequisites: Electrical, Optical, and Magnetic Properties of Materials
-Learning Goals: This course is a three-part series which explains the basis of the electrical, optical, and magnetic properties of materials including semiconductors, metals, organics, and insulators. We will show how devices are built to take advantage of these properties. This is illustrated with a wide range of devices, placing a strong emphasis on new and emerging technologies.
+
+Elecronic, Optical, and Magnetic Materials and Devices Prerequisites: Electrical, Optical, and Magnetic Properties of Materials
+
+Elecronic, Optical, and Magnetic Materials and Devices Learning Goals: This course is a three-part series which explains the basis of the electrical, optical, and magnetic properties of materials including semiconductors, metals, organics, and insulators. We will show how devices are built to take advantage of these properties. This is illustrated with a wide range of devices, placing a strong emphasis on new and emerging technologies.
 The first part of the course covers electronic materials and devices, including diodes, bipolar junction transistors, MOSFETs, and semiconductor properties. The second part covers optical materials and devices, including photodetectors, solar cells (photovoltaics), displays, light emitting diodes, lasers, optical fibers, optical communications, and photonic devices. The final part of the series covers magnetic materials and devices, including magnetic data storage, motors, transformers, and spintronics.
-Format: Online course
-Syllabus: not available
+
+Elecronic, Optical, and Magnetic Materials and Devices Format: Online course
+
+Elecronic, Optical, and Magnetic Materials and Devices Syllabus: not available
 
 
 
