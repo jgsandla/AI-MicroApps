@@ -1013,7 +1013,7 @@ PHASES = {
 
            "Python": {
                 "type": "radio",
-                "options": ['I don't know any Python', 'Beginner', 'Intermediate', 'Advanced'],
+                "options": ['None', 'Beginner', 'Intermediate', 'Advanced'],
                 "label": "How would you rank your Python skills?",
                 "showIf": {"more": {"$eq": "Yes"}},
                
