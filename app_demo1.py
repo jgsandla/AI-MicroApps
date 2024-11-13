@@ -212,16 +212,16 @@ Symmetry, Structure, and Tensor Properties of Materials Learning Goals: This cou
 
 Symmetry, Structure, and Tensor Properties of Materials Format: Do not recommend this course to students looking for online-only courses. This course contains self-study materials
 
-Course Title: Elecronic, Optical, and Magnetic Materials and Devices
+Course Title: 3.15x Elecronic, Optical, and Magnetic Materials and Devices
 
-Elecronic, Optical, and Magnetic Materials and Devices Prerequisites: Electrical, Optical, and Magnetic Properties of Materials
+3.15x Elecronic, Optical, and Magnetic Materials and Devices Prerequisites: Electrical, Optical, and Magnetic Properties of Materials
 
-Elecronic, Optical, and Magnetic Materials and Devices Learning Goals: This course is a three-part series which explains the basis of the electrical, optical, and magnetic properties of materials including semiconductors, metals, organics, and insulators. We will show how devices are built to take advantage of these properties. This is illustrated with a wide range of devices, placing a strong emphasis on new and emerging technologies.
+3.15x Elecronic, Optical, and Magnetic Materials and Devices Learning Goals: This course is a three-part series which explains the basis of the electrical, optical, and magnetic properties of materials including semiconductors, metals, organics, and insulators. We will show how devices are built to take advantage of these properties. This is illustrated with a wide range of devices, placing a strong emphasis on new and emerging technologies.
 The first part of the course covers electronic materials and devices, including diodes, bipolar junction transistors, MOSFETs, and semiconductor properties. The second part covers optical materials and devices, including photodetectors, solar cells (photovoltaics), displays, light emitting diodes, lasers, optical fibers, optical communications, and photonic devices. The final part of the series covers magnetic materials and devices, including magnetic data storage, motors, transformers, and spintronics.
 
-Elecronic, Optical, and Magnetic Materials and Devices Format: Online course
+3.15x Elecronic, Optical, and Magnetic Materials and Devices Format: Online course
 
-Elecronic, Optical, and Magnetic Materials and Devices Syllabus: not available
+3.15x Elecronic, Optical, and Magnetic Materials and Devices Syllabus: not available
 
 Course Title: 6.00.1x
 
